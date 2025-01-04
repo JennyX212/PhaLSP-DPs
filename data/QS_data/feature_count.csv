@@ -1,0 +1,523 @@
+AI-2,83
+LuxS,70
+Acyl-Homoserine-Lactones,44
+Indole,40
+C6-HSL,26
+AIP,20
+C8-HSL,17
+AgrC,17
+CSP,15
+C10-HSL,14
+C4-HSL,13
+ComD,13
+3-oxo-C6-HSL,12
+3-oxo-C12-HSL,12
+No,12
+LsrB,11
+3-oxo-C8-HSL,11
+C12-HSL,11
+ComD; ComE,10
+ComC,9
+3-oxo-C10-HSL,8
+Rap,6
+LuxP,6
+LuxR,5
+AgrC1,5
+3-oxo-C14-HSL,5
+FimA,5
+Rgg,5
+CepR,5
+3-OH-C12-HSL,4
+SdiA,4
+RbsB,4
+AIP2,4
+CepI,4
+Inhibit,4
+4-hydroxy-2-heptylquinoline,3
+DSRIRMGFDFSKLFGK,3
+AgrB; AgrD,3
+BcsG,3
+Eep,3
+AIP3,3
+AgrC2,3
+ComR,3
+HHQ,3
+TRAP,3
+LrsB,3
+CSP 1,3
+ComC1,3
+Tryptophanase TnaA,3
+PhrA,3
+CbnS,2
+ thiolactone linkage between C5 and F9,2
+PlcRIV,2
+DIIIIVGG,2
+RIP,2
+PlcR,2
+AbaR,2
+(S)-3-hydroxytridecan-4-one,2
+PqsA; PqsB; PqsC; PqsD; PqsE,2
+AIP1,2
+CAI-1,2
+AgrA; AgrC,2
+AgrC4,2
+CSP 2,2
+RNAIII Inhibiting Peptide,2
+PQS,2
+PlcRI,2
+C14-HSL,2
+Tryptophanase,2
+CSF,2
+PlcRII,2
+CbnK,2
+CS,2
+ComS,2
+TasA,2
+CqsA,2
+Flagellin,2
+Farnesol,2
+AgrD2,2
+RopB,2
+PhrC,2
+GtfA,2
+ComC2,2
+AbaI,2
+AIP4,2
+ComP,2
+PgaB,2
+RapC,2
+PapR7I,2
+PapR,2
+farnesol,2
+FsrC,2
+EntK,2
+3-OH-C8-HSL,2
+YfiR,2
+Competence and Sporulation Factor,2
+AgrC3,2
+3-OH-C4-HSL,2
+C7-HSL,2
+PlcRIII,2
+AgrD1,2
+LuxQ,2
+RapA,2
+IcaR,2
+WspR/PA3702,2
+LuxO,2
+AimR,1
+SGSLSTFFRLFNRSFTQALGK (pre-peptide),1
+LecA,1
+BviR,1
+WceF,1
+C6-AQ,1
+YenR,1
+QSP24,1
+PlnA,1
+EasR,1
+SHP2-C10,1
+PapR5II,1
+CyaB,1
+PltK,1
+MKKLLIGSLLTLAMAWGISLGDTALEKSHIISHNDQEVQLAKDLPFEY,1
+MWLLLLFL,1
+CB2,1
+SIP,1
+VsmI,1
+TagA,1
+PisK,1
+PsIG,1
+PhrPUM,1
+FnbpA,1
+SFTPCTTYF,1
+Als3,1
+LasR,1
+LVTLVFV,1
+LamD,1
+SiaC,1
+PapR7IV,1
+TM0504,1
+RetS,1
+EMRKSNNNFFHFLRRI,1
+PNAG,1
+Virulence peptide 1,1
+SppK,1
+CsgG,1
+PctA; TlpQ,1
+FimX,1
+phrANTH1,1
+IP-673,1
+TprA,1
+NprR,1
+PqsR/MvfR,1
+Pseudomonas Quinolone Signal,1
+PrgB,1
+Bacteriocin Inducing Peptide,1
+ALILTLVS,1
+cholerae autoinducer-1 (CAI-1),1
+SIFTLVA,1
+GLWEDLLYNINRYAHIT,1
+VirSR,1
+SpnR,1
+3-hydroxyundecan-4-one,1
+Gelatinase Biosynthesis-Activating Pheromone,1
+LsrB/RbsB,1
+Short Hydrophobic Peptide 3,1
+SHP2-C9,1
+SHP3,1
+PhrE,1
+5-dimethylpyrazin-2-ol,1
+Short Hydrophobic Peptide;SHP1299,1
+SwrR,1
+RBP,1
+ComQ,1
+YSTCDFIM,1
+PHRCACET1,1
+RhlI; LasI,1
+LecA/PA-IL,1
+ thiolactone linkage between C8 and L12,1
+BpsI,1
+NprR/AqsR,1
+ExsD,1
+iPD1,1
+LasI,1
+INCDFLL,1
+PaMucR,1
+Entianin,1
+FGTPWSITNFWKKNFNDRPDFDSDRRRY,1
+EcpB,1
+VanM,1
+VpsU,1
+AgrD,1
+BsEDF,1
+PapR5IV,1
+SasG,1
+VirR; VirS,1
+LecA & GaIA-WKY,1
+EMRISRIILDFLFLRKK,1
+ARNQT,1
+PelB,1
+Phr-pPOD2000,1
+LFSLVLAG,1
+CbaX,1
+AbbA,1
+BIP-1,1
+TpsB4,1
+TtgV,1
+Tdh,1
+SmcR,1
+ComX RO-C-2,1
+VNCWGKH,1
+BigR,1
+KinD,1
+RsbA,1
+NisK,1
+FsrA; FsrC,1
+PaEDF-1,1
+FliD,1
+GtfA/B,1
+AafA,1
+PrgX,1
+PilT,1
+GLDWWSL,1
+C11:1-AQ,1
+NprX/AqsP,1
+iAD1,1
+QscR/PhzR,1
+LsrK,1
+SilB,1
+VanI,1
+ thiolactone linkage between C4 and T8,1
+NucB,1
+AggB,1
+C7-AQ,1
+FleQ,1
+Carnobacteriocin B2,1
+PHRCACET4,1
+ComX RS-B-1,1
+ComX RO-H-1,1
+SinR & SinI,1
+Nisin A,1
+PagI,1
+Pep5,1
+YtbR,1
+PlnB,1
+EthR,1
+DksA; VpsR,1
+EDF,1
+6]benzIndole modification,1
+GtfC,1
+DILIIVGG,1
+21-CSP,1
+SHP3-C10,1
+DLRNIFLKIKFKKK,1
+YisP,1
+SHP0316(18-24),1
+ESRLPKIRFDFIFPRKK,1
+RhlI,1
+DWRISETIRNLIFPRRK,1
+NprX,1
+AggA,1
+LecB/PA-IIL,1
+cCF10,1
+Pseudomonas quinolone signal,1
+Alg44,1
+MucR,1
+SdgB,1
+DPO,1
+cPD1,1
+PgaB-PNAG,1
+autoinducer RNAIII-activating protein RAP,1
+SmLsrB,1
+DMCNGYF,1
+C9-AQ,1
+ClfB,1
+LFVVTLVG,1
+CupB6,1
+Bacteriocin-like peptide,1
+PilO,1
+EIRQTHNIFFNFFKRR,1
+PqsA,1
+iCF10,1
+YSTCYFIM,1
+BpsB,1
+RAP,1
+SQKGVYASQRSFVPSWFRKIFRN,1
+PapR7II,1
+cAM373,1
+Rgg1358,1
+CsgC,1
+PhrK,1
+TSACLWFT,1
+Bap1,1
+CroI,1
+3-OH-C10-HSL,1
+QNSPNIFGQWM,1
+DSVCASYF,1
+phr1988,1
+PA0861,1
+NprRB,1
+EasI,1
+XIP,1
+EcpD,1
+NASKYNPCSNYL,1
+ClfA,1
+CqsS,1
+C11-PQS,1
+RapF,1
+DRRDPRGIIGIGKKLFG,1
+MrkH,1
+PdrA,1
+VicR,1
+phrANTH3,1
+Vfr,1
+Cry1Aa,1
+DKRLPYFFKHLFSNRTK,1
+ExsA,1
+ADPITRQ(W)GD,1
+PqsBC,1
+BviI,1
+DLRGVPNPWGWIFGR,1
+C8-AQ,1
+ lactone linkage between S3 and M11,1
+GcL,1
+LanK,1
+MKKLLIGSLLTLAMAWGISLGDTALEKNQVISHNDQEVQLASDVPFEY,1
+PaEDF-3,1
+C7:1-AQ,1
+PisN,1
+PapR5I,1
+SafD,1
+SigX-inducing peptide,1
+RAP-binding peptide,1
+AAP,1
+IP-TX,1
+PelA,1
+PHRBST1,1
+SpnI,1
+PaEDF-2,1
+ thiolactone linkage between C3 and F7,1
+PqsD,1
+BlpH,1
+GacS,1
+PltA,1
+CrtM,1
+BIP-2,1
+WS9326A,1
+3-OH-C6-HSL,1
+HapR,1
+BslA,1
+Arbitrium,1
+Fap1,1
+Plantaricin A,1
+NAAKYNPCASYL,1
+18-CSP,1
+SHP2-C7,1
+SpaK,1
+ thiolactone linkage between C4 and M8,1
+ with tetrahydro[5,1
+QseB,1
+RapE,1
+EMRLSKFFRDFILQRKK,1
+Rgg2,1
+TraA,1
+VqmA,1
+BpsR,1
+Subtilin,1
+Siamycin I,1
+QSP1,1
+ComX <sub>natto</sub>,1
+EsaI,1
+Se0862,1
+Mersacidin,1
+AafB,1
+SHP1358(15-23),1
+RbmA,1
+StbH,1
+RcdA,1
+C11-AQ,1
+GVNACSSLF,1
+StxK,1
+CdpR,1
+AciI,1
+AhyI,1
+YtbI,1
+YcgR/MrkH,1
+YenI,1
+YfiN/TpbB,1
+PhrI,1
+LsrG,1
+Autoinducer-3,1
+C5-PQS,1
+Short hydrophobic peptide,1
+ComX 168,1
+OpaR,1
+AgrA,1
+Streptin 1,1
+LuxPQ,1
+Cochinmicin II/III,1
+ thiolactone linkage between C3 and L7,1
+PhrF,1
+SHP3-C7,1
+AITLIFI,1
+Phr0662,1
+Bap,1
+phrANTH2,1
+EcpA,1
+GqqA,1
+short hydrophobic peptide,1
+LasR&QsIA,1
+Hda-Hdb,1
+C5-AQ,1
+Short Hydrophobic Peptide,1
+SilCR,1
+FsrB,1
+TUP1,1
+VsmR,1
+PagR,1
+ thiolactone linkage between C4 and F8,1
+CupB2,1
+GWWEELLHETILSKFKITKALELPIQL,1
+VanP,1
+C18-HSL,1
+2-Alkyl-4-quinolone,1
+FnbpA-5,1
+Trap,1
+SinR/RaiR/AvsR,1
+QSP2,1
+PqsR,1
+BlpC,1
+LecA & GalA,1
+BIP,1
+YmgB,1
+PA3825,1
+Phr-pLS20,1
+BswR,1
+VanR,1
+GBAP,1
+SGSLSTFFRLFNRSFTQA,1
+ thiolactone linkage between C1 and T5,1
+SinR,1
+TraR,1
+SHP3-C9,1
+TraM,1
+C6-PQS,1
+FnbpA-1,1
+FLVMFLSG,1
+SwrI,1
+ComX,1
+cOB1,1
+C9:1-AQ,1
+TcaR,1
+SHP1509,1
+EMRKPDGALFNLFRRR,1
+CbaK,1
+Ras,1
+PqsE,1
+LecA & GaIA-WRI,1
+VpsO,1
+SiaB-SiaC,1
+LamC,1
+YpsR,1
+Phr-pTA1060,1
+3-oxo-C4-HSL,1
+PelD,1
+WS9326B,1
+Rgg3,1
+TcdA,1
+ComX RO-B-2,1
+STP,1
+McbR/YncC,1
+BplH,1
+RsmA,1
+CbnB2,1
+YfiB,1
+CepR2,1
+Fsr,1
+SrtK,1
+Ag43,1
+RhlR,1
+Phr-pTA1040,1
+VAVLVLGA,1
+Orf4,1
+Phr-pPL10-1,1
+AibA; AibB,1
+C8-PQS,1
+LuxI,1
+PilA,1
+YmdB,1
+AhyR,1
+C16-HSL,1
+AIFILAS,1
+RopB_sp,1
+VpsT,1
+RbmC,1
+C9-PQS,1
+PqsA; PqsB; PqsC; PqsD; PqsE; PqsH,1
+ComD1; ComE,1
+SinI,1
+Npr,1
+CLWFT,1
+ComX RO-E-2,1
+PhrG,1
+CviR,1
+PapR7III,1
+PapR5III,1
+SapK,1
+BdcA,1
+TraR & TraM,1
+YpsI,1
+AgrD<sub>Cp</sub>,1
+MrsK2,1
+LsrF,1
+Hap,1
+cAD1,1
+EntF,1
+LsrR,1
+LasR-Aqs1,1
+iAM373,1
+ExsC-ExsE,1
+TcdB,1
+LecA & GaIA-QRS,1
+CsgD,1
+YfiB-YfiR,1
+ETIIIIGGG,1

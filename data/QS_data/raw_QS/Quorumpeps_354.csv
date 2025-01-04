@@ -1,0 +1,355 @@
+ID,Sequence,Trivial Name,Molecular Formula,Species origin,Receptor
+1,"Ac-CAFIM, thiolacton linkage between C1 and M5",-,C28H41N5O6S2,-,"/, AgrC1, AgrC2, AgrC3, AgrC4"
+2,YSPITNF-NH2,"RIP, RNAIII Inhibiting Peptide",C40H57N9O11,-,TRAP
+3,"Ac-CDFIF, thiolacton linkage between C1 and F5",-,C33H41N5O8S,-,AgrC
+4,"Ac-CGGLF, thiolacton linkage between C1 and F5",-,C24H33N5O6S,-,"AgrC1, AgrC2"
+5,"Ac-CGSLF, thiolacton linkage between C1 and F5",-,C25H35N5O7S,-,"AgrC1, AgrC2"
+6,"Ac-CSGLF, thiolacton linkage between C1 and F5",-,C25H35N5O7S,-,"AgrC1, AgrC2"
+7,YSPWTNF-NH2,"RIP, RNAIII Inhibiting Peptide",C45H56N10O11,Staphylococcus aureus?Staphylococcus epidermidis,TRAP
+8,"Ac-NSPNIFGQWM, lacton linkage between S2 and M10",-,C56H76N14O15S,-,FsrC
+9,"Ac-SPNIFGQWM, lacton linkage between S1 and M9",-,C52H70N12O13S,-,FsrC
+10,ADLPFEF,PapR7I,C41H55N7O12,Bacillus cereus?Bacillus thuringiensis,"PlcRI, PlcRII, PlcRIII, PlcRIV"
+11,AGTKPQGKPASNLVECVFSLFKKCN,EntF,C118H193N32O34S2,Enterococcus faecium,EntK
+12,AGTKPQGKPASSISKCVFSFFKKC,-,C115H185N30O31S2,-,EntK
+13,AIFILAS,cAM373,C36H59N7O9,Enterococcus faecalis,-
+14,AITLIFI,iCF10,C40H67N7O9,Enterococcus faecalis,PrgX
+15,AKDEH,PHRBST1,C24H38N8O10,Bacillus stearothermophilus,Rap
+16,AKTVQ,phrANTH3,C23H43N7O8,Bacillus anthracis,Rap
+17,ALILTLVS,iPD1,C39H72N8O11,Enterococcus faecalis,TraA
+18,ARNQT,PhrA,C22H40N10O9,Bacillus subtilis,RapA
+19,NNWNN,"EDF, Extracellular death factor",C27H36N10O10,Escherichia coli,-
+20,"AVNACSSLF, thiolacton linkage between C5 and F9",-,C39H60N10O12S,-,AgrC
+21,"QNSPNIFGQBal3M, lacton linkage between S3 and M11",-,C59H81N15O16S2,-,FsrC
+22,"CVGIW, thiolacton linkage between C1 and W5",LamD,C27H38N6O5S1,Lactobacillus plantarum,LamC
+23,ADPITRQW(Farnesyl)GD,ComX 168,C65H99N15O17,Bacillus subtilis,ComP
+24,"A(Abu)F(Abu)LPGGGGVA(Abu)L(Abu)(Dha)EAI, cyclisation between (Ala1-S-Abu2), (Abu4-S-Ala12), (Abu13-S-Ala18) and (Ile19-NH-CH=CH-S-Abu15)",Mersacidin,C80H120N20O21S4,Bacillus subtilis,MrsK2
+25,CVFSLFKKCN,-,C54H85N13O13S2,-,CbaK
+26,"NSPNIFGQWM, lacton linkage between S2 and M10",-,C54H74N14O14S,-,FsrC
+27,"DICNAYF, thiolacton linkage between C3 and F7","AIP, Autoinducing peptide",C38H50N8O11S,Staphylococcus lugdunensis,AgrC
+28,DIRHRINNSIWRDIFLKRK,"Competence Stimulating Peptide, CSP",C111H183N38O27,Streptococcus gordonii,ComD
+29,DKRLPYFFKHLFSNRTK,"Competence Stimulating Peptide, CSP",C104H157N29O24,Streptococcus oralis,ComD
+30,DLRGVPNPWGWIFGR,"Competence Stimulating Peptide, CSP",C84H120N24O19,Streptococcus sanguis,ComD
+31,DLRNIFLKIKFKKK,"Competence Stimulating Peptide, CSP",C86H148N23O18,Streptococcus crista,ComD
+32,"DMCNGYF, thiolacton linkage between C3 and F7","AIP, Autoinducing peptide",C36H46N8O11S2,Staphylococcus lugdunensis,AgrC
+33,DRRDPRGIIGIGKKLFG,"Competence Stimulating Peptide, CSP",C84H145N28O22,Streptococcus milleri,ComD
+34,DRVGA,PhrI,C20H36N8O8,Bacillus subtilis,Rap
+35,"DSACHLGI, thiolacton linkage between C4 and I8","AgrD2, AIP, Autoinducing peptide",C33H52N10O11S1,Clostridium botulinum,-
+36,"DSACVFGA, thiolacton linkage between C4 and A8","AgrD2, AIP, Autoinducing peptide",C32H46N8O11S1,Clostridium sporogenes,-
+37,"DSACVYGF, thiolacton linkage between C4 and F8","AgrD2, AIP, Autoinducing peptide",C38H50N8O12S1,Clostridium botulinum,-
+38,"DSACYVSA, thiolacton linkage between C4 and A8","AgrD2, AIP, Autoinducing peptide",C33H48N8O13S1,Clostridium botulinum,-
+39,"DSACVVGI, thiolacton linkage between C4 and I8","AgrD2, AIP, Autoinducing peptide",C31H52N8O11S1,Clostridium botulinum,-
+40,"DSVCASYF, thiolacton linkage between C4 and F8","AIP2, Autoinducing peptide 2",C39H52N8O13S,Staphylococcus epidermidis,"AgrC1, AgrC2, AgrC3"
+41,DW(Geranyl)HY,-,C40H49N7O8,-,ComP
+42,"CVLVTL, thiolacton linkage between C1 and L6","AIP, Autoinducing peptide",C29H52N6O7S1,Clostridium acetobutylicum,AgrC
+43,DWRISETIRNLIFPRRK,"Competence Stimulating Peptide, CSP",C99H163N32O25,Streptococcus oralis,ComD
+44,EKMIG,PhrG,C24H44N6O8S,Bacillus subtilis,Rap
+45,EMRISRIILDFLFLRKK,"Competence Stimulating Peptide, CSP",C101H172N28O23S1,Streptococcus pneumoniae,ComD
+46,EMRKSNNNFFHFLRRI,"Competence Stimulating Peptide, CSP",C94H146N31O23S1,Streptococcus mitis,ComD
+47,EMRLPKILRDFIFPRKK,"Competence Stimulating Peptide, CSP",C102H171N29O22S1,Streptococcus mitis?Streptococcus oralis?Streptococcus pneumoniae,ComD
+48,EMRLSKFFRDFILQRKK,"Competence Stimulating Peptide, CSP",C103H168N30O24S1,Streptococcus pneumoniae?Phage-produced,ComD
+49,EQLSFTSIGILQLLTIGTRSCWFFYCRY,PltA,C156H233N37O41S2,Lactobacillus plantarum,PltK
+50,ERGMT,"Competence and Sporulation Factor, CSF, PhrC",C22H40N8O9S,Bacillus mojavensis?Bacillus subtilis,RapC
+51,ERNNT,Phr0662,C23H40N10O11,Bacillus halodurans,Rap
+52,ERPVG,PhrK,C23H40N8O8,Bacillus subtilis,Rap
+53,ESRLPKILLDFLFLRKK,"Competence Stimulating Peptide, CSP",C101H170N26O23,Streptococcus pneumoniae?Streptococcus pyogenes,ComD
+54,ESRLPKIRFDFIFPRKK,"Competence Stimulating Peptide, CSP",C103H165N29O23,Streptococcus mitis,ComD
+55,ESRVSRIILDFLFQRKK,"Competence Stimulating Peptide, CSP",C97H163N29O25,Streptococcus mitis,ComD
+56,VNYGNGVSCSKTKCSVNWGQAFQERYTAGINSFVSGVASGAGSIGRRP,"Carnobacteriocin B2, CB2, CbnB2",C213H333N66O68S2,Carnobacterium piscicola,CbnK
+57,DPITRQW(Farnesyl)GD,-,C62H94N14O16,-,ComP
+58,DSRIRMGFDFSKLFGK,"Competence Stimulating Peptide, CSP",C86H134N24O23S,Streptococcus anginosus?Streptococcus constellatus?Streptococcus thermophilus,ComD
+59,DW(Geranyl)KY,-,C40H54N6O8,-,ComP
+60,EIRQTHNIFFNFFKRR,"Competence Stimulating Peptide, CSP",C100H150N31O23,Streptococcus mitis,ComD
+61,EMRKPDGALFNLFRRR,"Competence Stimulating Peptide, CSP",C88H145N30O22S1,Streptococcus mitis,ComD
+62,ESRISDILLDFLFQRKK,"Competence Stimulating Peptide, CSP",C96H158N26O27,Streptococcus mitis,ComD
+63,GKPASNLVECVFSLFKKCN,-,C93H151N24O26S2,-,"CbaK, EntK"
+64,GIFW(Geranyl)EQ,ComX RO-E-2,C48H66N8O10,Bacillus subtilis,ComP
+65,LDW(Geranyl)KY,-,C46H65N7O9,-,ComP
+66,"KCVLVTL, thiolacton linkage between C2 and L7","AIP, Autoinducing peptide",C35H64N8O8S1,-,AgrC
+67,MDW(Geranyl)HY,-,C45H58N8O9S,-,ComP
+68,"Ac-CSSLF, thiolacton linkage between C1 and F5",-,C26H37N5O8S,-,"AgrC1, AgrC2, AgrC3, AgrC4"
+69,"QNSPNIFGQNal1M, lacton linkage between S3 and M11",-,C61H83N15O16S,-,FsrC
+70,"I(Dhb)AI(Dha)LA(Abu)PGAK(Abu)GALMGANMK(Abu)A(Abu)AHASIHV(Dha)K, cyclisation between (Ala3-S-Ala7), (Abu8-S-Ala11), (Abu13-S-Ala19), (Abu23-S-Ala26) and (Abu25-S-Ala28)",Nisin A,C143H230N42O37S7,Lactococcus lactis,NisK
+71,"QNCPNIFGQWM, thiolacton linkage between C3 and M11",-,C59H82N16O15S2,-,FsrC
+72,"QNHsePNIFGQWM, lacton linkage between HSr3 and M11",-,C56H78N14O14S,-,FsrC
+73,SGSLSTQFRLFNRSFTQALGK,-,C104H166N31O31,-,ComD
+74,"CLGVGSCNDFAGCGYAIVCFW, lactam linkage between C1 and D9, disulfide bond between C1 and C13, disulfide bond between C7 and C19",Siamycin I,C97H131N23O26S4,Streptomyces species,FsrC
+75,SINSQIGKATSNLVECVFSLFKKCN,-,C119H197N32O37S2,-,"CbaK, EntK"
+76,SNLVECVFSLFKKCN,-,C77H124N19O22S2,-,CbaK
+77,VGSRYLCTPGSCWKLVCFTTTVK,Streptin 1,C114H181N29O31S3,Streptococcus pyogenes,SrtK
+78,"WKAE(Dha)LA(Abu)PGAV(Abu)GALQ(Dhb)AFLQ(Abu)L(Abu)ANAKI(Dha)K, cyclisation between (Ala3-S-Ala7), (Abu8-S-Ala11), (Abu13-S-Ala19), (Abu23-S-Ala26) and (Abu25-S-Ala28)",Subtilin,C148H227N39O38S5,Bacillus subtilis,SpaK
+79,TNGNW(Geranyl)VPS,-,C48H71N11O13,-,ComP
+80,TPGGFDIISGGPHVAQDVLNAIKDFFK,IP-TX,C131H200N33O38,Lactobacillus sakei,StxK
+81,YKPITNF-NH2,"RIP, RNAIII Inhibiting Peptide",C43H64N10O10,-,TRAP
+82,YKPITN-NH2,"RIP, RNAIII Inhibiting Peptide",C34H55N9O9,-,TRAP
+83,"YSPCTNFF, thiolacton linkage between C4 and F8","AIP, Autoinducing peptide",C46H57N9O12S,Staphylococcus warneri,AgrC
+84,YSPCTNFF,"RIP, RNAIII Inhibiting Peptide",C46H59N9O13S1,-,TRAP
+85,YSPCTNF,"RIP, RNAIII Inhibiting Peptide",C37H50N8O12S1,-,TRAP
+86,YTNGNW(Geranyl)VPS,ComX RO-B-2,C57H80N12O15,Bacillus mojavensis,ComP
+87,FW(Geranyl)E,[3¨C5]ComX RO-E-2,C35H44N4O6,-,ComP
+88,FW(Geranyl)EQ,[3¨C6]ComX RO-E-2,C40H52N6O8,-,ComP
+89,GIFW(Geranyl)AQ,[E5A]ComX RO-E-2,C46H64N8O8,-,ComP
+90,AIFW(Geranyl)EQ,[G1A]ComX RO-E-2,C49H68N8O10,-,ComP
+91,AGIFW(Geranyl)EQ,Ala-ComX RO-E-2,C51H71N9O11,-,ComP
+92,FHWWQTSPAHFS,"RAP-binding peptide, RBP",C75H91N19O17,Synthetic,TRAP
+93,FLVMFLSG,cPD1,C45H68N8O10S,Enterococcus faecalis,TraA
+94,"GAKPCGGFF, thiolacton linkage between C5 and F9","AIP, Autoinducing peptide",C41H56N10O9S,Staphylococcus xylosus,AgrC
+95,"GANPCALYY, thiolacton linkage between C5 and Y9","AIP, Autoinducing peptide",C44H60N10O12S,Staphylococcus capitis,AgrC
+96,"GANPCOLYY, thiolacton linkage between C5 and Y9","AIP, Autoinducing peptide",C46H65N11O12S,Staphylococcus capitis,AgrC
+97,"QNSPNIFGQWM, lacton linkage between S3 and M11","GBAP, Gelatinase Biosynthesis-Activating Pheromone",C59H82N16O16S,Enterococcus faecalis,FsrC
+98,"GGKVCSAYF, thiolacton linkage between C5 and F9","AIP, Autoinducing peptide",C42H60N10O11S,Staphylococcus cochnii subsp. cochnii,AgrC
+99,GKAEF,phr1988,C25H38N6O8,Bacillus halodurans,Rap
+100,GKATSSISKCVFSFFKKC,-,C89H143N22O24S2,-,CbaK
+101,GLWEDILYSLNIIKHNNTKGLHHPIQL,"Bacteriocin Inducing Peptide, BIP",C146H228N40O39,Streptococcus pneumoniae,BlpH
+102,GLWEDLLYNINRYAHYIT,"Bacteriocin Inducing Peptide, BIP, BIP-2, BlpC",C106H152N26O29,Streptococcus pneumoniae,BlpH
+103,GNWNN,"EDF, Extracellular death factor",C25H33N9O9,-,-
+104,GSLSTFFRLFNRSFTQALGK,TPN1,C105H162N29O28,-,ComD
+105,SQKGVYASQRSFVPSWFRKIFRN,"Competence Stimulating Peptide, CSP",C129H194N38O32,Streptococcus gordonii,ComD
+106,"GVAACSSLF, thiolacton linkage between C5 and F9",-,C37H57N9O11S,-,AgrC2
+107,"GVNACSSLF, thiolacton linkage between C5 and F9","AIP2, Autoinducing peptide 2",C38H58N10O12S,Staphylococcus aureus,"AgrC1, AgrC2, AgrC3, AgrC4"
+108,"GVNACSSLF, lactam linkage between C5 and F9","AIP, Autoinducing peptide",C38H58N10O12S1,-,"AgrC1, AgrC4"
+109,"GVNASSSLF, lacton linkage between S5 and F9",-,C38H58N10O13,-,"AgrC, AgrC3, AgrC4"
+110,"GVNPCGGWF, thiolacton linkage between C5 and F9","AIP, Autoinducing peptide",C43H55N11O10S,Staphylococcus arlettae,AgrC
+111,"GKCVLVTL, thiolacton linkage between C3 and L8","AIP, Autoinducing peptide",C37H67N9O9S1,-,AgrC
+112,GWWEELLHETILSKFKITKALELPIQL,"Bacteriocin Inducing Peptide, BIP-1, BlpC",C155H243N35O40,Streptococcus pneumoniae,BlpH
+113,"GYRTCNTYF, thiolacton linkage between C5 and F9","AIP, Autoinducing peptide",C50H67N13O14S,Staphylococcus caprae,AgrC
+114,"GYSTCSYYF, thiolacton linkage between C5 and F9","AIP, Autoinducing peptide",C51H61N9O15S,Staphylococcus caprae,AgrC
+115,"ASTCDFIM, thiolacton linkage between C4 and M8",-,C37H56N8O12S2,-,AgrC
+116,"YATCDFIM, thiolacton linkage between C4 and M8",-,C43H60N8O12S2,-,AgrC
+117,"YSTCAFIM, thiolacton linkage between C4 and M8",-,C42H60N8O11S2,-,"AgrC1, AgrC2, AgrC3, AgrC4"
+118,"YSTCDAIM, thiolacton linkage between C4 and M8",-,C37H56N8O13S2,-,AgrC1
+119,"YSTCDFAM, thiolacton linkage between C4 and M8",-,C40H54N8O13S2,-,AgrC1
+120,"YSTCSSLF, thiolacton linkage between C4 and F8",-,C40H56N8O13S,-,"AgrC1, AgrC2, AgrC3, AgrC4"
+121,ILSGAPCIPW,PHRCACET4,C50H77N11O12S,Clostridium acetobutylicum,Rap
+122,"INCDFLL, thiolacton linkage between C3 and L7","AIP3, Autoinducing peptide 3",C38H58N8O10S,Staphylococcus aureus,"AgrC1, AgrC2, AgrC3, AgrC4"
+123,IRFVT,"Phr-pPL10-1, PhrPUM",C30H50N8O7,Bacillus pumilus,Rap
+124,"KAKTCTVLY, thiolacton linkage between C5 and Y9","AIP, Autoinducing peptide",C46H77N11O12S,Staphylococcus auricularis,AgrC
+125,KSSAYSLQMGATAIKQVKKLFKKWGW,"Plantaricin A, PlnA",C140H223N36O34S1,Lactobacillus plantarum,PlnB
+126,"KTKTCTVLY, thiolacton linkage between C5 and Y9","AIP, Autoinducing peptide",C47H79N11O13S,Staphylococcus auricularis,AgrC
+127,"KYNPCANYL, thiolacton linkage between C5 and L9","AIP, Autoinducing peptide",C49H70N12O13S,Staphylococcus epidermidis,AgrC
+128,"KYNPCASYL, thiolacton linkage between C5 and L9","AIP, Autoinducing peptide",C48H69N11O13S,Staphylococcus epidermidis,AgrC
+129,"KYNPCLGFL, thiolacton linkage between C5 and L9","AIP, Autoinducing peptide",C50H73N11O11S,Staphylococcus simulans,AgrC
+130,"KYNPCSNYL, thiolacton linkage between C5 and L9","AIP, Autoinducing peptide",C49H70N12O14S,Staphylococcus epidermidis,"AgrC, AgrC1"
+131,"KYYPCFGYF, thiolacton linkage between C5 and F9","AIP, Autoinducing peptide",C61H72N10O12S,Staphylococcus simulans,AgrC
+132,LFSLVLAG,cAD1,C40H66N8O10,Enterococcus faecalis,TraA
+133,LFVVTLVG,iAD1,C42H70N8O10,Enterococcus faecalis,TraA
+134,LPFEF,PapR5I,C34H45N5O8,Bacillus cereus,PlcRI
+135,LPFEH,PapR5IV,C31H43N7O8,Bacillus cereus,PlcRIV
+136,LSTFFRLFNRSFTQALGK,TPN3,C100H154N27O25,-,ComD
+137,LVTLVFV,cCF10,C40H67N7O9,Enterococcus faecalis,PrgX
+138,MAGNSSNFIHKIKQIFTHR,IP-673,C99H157N31O26S1,Lactobacillus sakei,SppK
+139,"NGKCVLVTL, thiolacton linkage between C4 and L9","AIP, Autoinducing peptide",C41H73N11O11S1,-,AgrC
+140,MKAEH,phrANTH1,C25H42N8O8S,Bacillus anthracis,Rap
+141,MLDW(Geranyl)KY,ComX RO-H-1,C51H74N8O10S,Bacillus mojavensis,ComP
+142,MMDW(Geranyl)HY,ComX RS-B-1,C50H67N9O10S2,Bacillus subtilis,ComP
+143,MPFEF,PapR5II,C33H43N5O8S1,Bacillus cereus,PlcRII
+144,"QASPNIFGQWM, lacton linkage between S3 and M11",-,C58H81N15O15S,-,FsrC
+145,"Ac-CDFIM, thiolacton linkage between C1 and M5",-,C29H41N5O8S2,-,"AgrC1, AgrC2, AgrC3"
+146,NEVPFEF,PapR7III,C42H56N8O13,Bacillus cereus,"PlcRI, PlcRII, PlcRIII, PlcRIV"
+147,NGWNN,"EDF, Extracellular death factor",C25H33N9O9,-,-
+148,"YSTCDFIM, thiolacton linkage between C4 and M8","AIP1, Autoinducing peptide 1",C43H60N8O13S2,Staphylococcus aureus,"AgrC1, AgrC2, AgrC3"
+149,"YSTCYFIM, thiolacton linkage between C4 and M8","AIP4, Autoinducing peptide 4",C48H64N8O12S2,Staphylococcus aureus,"AgrC1, AgrC2, AgrC3, AgrC4"
+150,NKSVIKGNPASNLAQCVFSFFKKC,PisN,C118H189N32O32S2,Carnobacterium maltaromaticum,PisK
+151,NNGNN,"EDF, Extracellular death factor",C18H29N9O10,-,-
+152,NNNWNNN,"EDF, Extracellular death factor",C35H48N14O14,-,-
+153,NNWGN,"EDF, Extracellular death factor",C25H33N9O9,-,-
+154,NNWNG,"EDF, Extracellular death factor",C25H33N9O9,-,-
+155,NWN,"EDF, Extracellular death factor",C19H24N6O6,-,-
+156,PITNF-NH2,"RIP, RNAIII Inhibiting Peptide",C28H43N7O7,-,TRAP
+157,PWTNF-NH2,"RIP, RNAIII Inhibiting Peptide",C33H42N8O7,-,TRAP
+158,"ANSPNIFGQWM, lacton linkage between S3 and M11",-,C57H79N15O15S,-,FsrC
+159,"AASPNIFGQWM, lacton linkage between S3 and M11",-,C56H78N14O14S,-,FsrC
+160,QKGMY,Phr-pLS20,C27H43N7O8S,Bacillus subtilis,Rap
+161,"QNDprPNIFGQWM, lactam linkage between Dpr3 and M11",-,C59H83N17O15S,-,FsrC
+162,QRGMI,PhrF,C24H45N9O7S,Bacillus subtilis,RapF
+163,"RIPTSTGFF, lacton linkage between S5 and F9","AIP, Autoinducing peptide",C48H70N12O12,-,AgrC
+164,SDLPFEH,PapR7IV,C38H53N9O13,Bacillus cereus,"PlcRI, PlcRII, PlcRIII, PlcRIV"
+165,SDMPFEF,PapR7II,C40H53N7O13S1,Bacillus cereus,"PlcRI, PlcRII, PlcRIII, PlcRIV"
+166,SGSLSTFFLLFNRSFTQALGK,"Competence Stimulating Peptide, CSP",C108H165N27O30,-,ComD
+167,SGSLSTFFRLFLRSFTQALGK,"Competence Stimulating Peptide, CSP",C110H171N29O29,-,ComD
+168,SGSLSTFFRLFNASFTQALGK,-,C105H160N27O30,-,ComD
+169,SGSLSTFFRLFNFSFTQALGK,"Competence Stimulating Peptide, CSP",C111H163N27O30,-,ComD
+170,SGSLSTFFRLFNRSFTQ,TPC4,C91H136N25O26,-,ComD
+171,SGSLSTFFRLFNRSFTQA,"18-CSP, Competence Stimulating Peptide",C94H141N26O27,Streptococcus mutans,ComD
+172,SGSLSTFFRLFNRSFTQAGK,-,C102H156N29O29,-,ComD
+173,SGSLSTFFRLFNRSFTQAL,TPC2,C100H152N27O28,-,ComD
+174,SGSLSTFFRLFNRSFTQALG,TPC1,C102H155N28O29,-,ComD
+175,SGSLSTFFRLFNRSFTQALGA,-,C105H160N29O30,-,ComD
+176,SGSLSTFFRLFNRSFTQALGK,"21-CSP, Competence Stimulating Peptide",C108H167N30O30,Streptococcus mutans,ComD
+177,"YSTSDFIM, lacton linkage between S4 and M8",-,C43H60N8O14S,-,AgrC
+178,SGSLSTFFRLFNRSFTQALK,-,C106H164N29O29,-,ComD
+179,SGSLSTFFRLFNRSFTQALGV,-,C107H164N29O30,-,ComD
+180,SGSLSTFFRLFNRSQTQALGK,-,C104H166N31O31,-,ComD
+181,SGSLSTFFRLQNRSFTQALGK,-,C104H166N31O31,-,ComD
+182,SGTLSTFFRLFNRSFTQA,TPC3,C95H143N26O27,-,ComD
+183,SGWMDYINGFLKGFGGQRTLPTKDYNIPQV,STP,C156H233N40O44S1,Streptococcus thermophilus,StbH
+184,SIFTLVA,iAM373,C36H59N7O10,Enterococcus faecalis,-
+185,SINSQIGKATSSISKCVFSFFKKC,CbaX,C116H189N30O34S2,Carnobacterium maltaromaticum,"CbaK, EntK"
+186,SKDYN,phrANTH2,C26H39N7O11,Bacillus anthracis,Rap
+187,SKNSQIGKSTSSISKCVFSFFKKC,"CbnS, CS",C116H189N31O35S2,Carnobacterium maltaromaticum?Carnobacterium piscicola,CbnK
+188,SLSTFFRLFNFSFTQALG,"Competence Stimulating Peptide, CSP",C100H143N23O26,-,ComD
+189,SLSTFFRLFNRSFTQALGK,TPN2,C103H159N28O27,-,ComD
+191,SRKAT,Phr-pTA1040,C22H43N9O8,Bacillus subtilis,Rap
+192,SRNAT,"Phr-pPOD2000, Phr-pTA1060",C20H37N9O9,Bacillus subtilis,Rap
+193,SRNVT,PhrE,C22H41N9O9,Bacillus subtilis,RapE
+194,"SSACVWCV, thiolacton linkage between C4 and V8","AgrD1, AIP, Autoinducing peptide",C36H53N9O10S2,Clostridium sporogenes,-
+195,"SSACYWCV, thiolacton linkage between C4 and V8","AgrD1, AIP, Autoinducing peptide",C40H53N9O11S2,Clostridium botulinum,-
+196,STFFRLFNRSFTQALGK,TPN4,C94H143N26O24,-,ComD
+197,"Ac-CSSLF, thiolacton linkage between C1 and F5, S2 is N-methylated","AIP, Autoinducing peptide",C27H39N5O8S1,-,"AgrC1, AgrC2"
+198,"Ac-CSSLF, thiolacton linkage between C1 and F5, S3 is N-methylated","AIP, Autoinducing peptide",C27H39N5O8S1,-,"AgrC1, AgrC2"
+199,"Ac-C(5-aminopentanoic acid)LF, thiolacton linkage between C1 and F3","AIP, Autoinducing peptide",C25H36N4O5S1,-,"AgrC1, AgrC2"
+200,"Ac-(2,3-diaminopropanoic acid)SSLF, lactam linkage between (2,3-diaminopropanoic acid) and F4","AIP, Autoinducing peptide",C26H38N6O8,-,"AgrC1, AgrC2"
+201,"(3-sulfanylpropanoic acid)SSLF, thiolacton linkage between (3-sulfanylpropanoic acid) and F4","AIP, Autoinducing peptide",C24H34N4O7S1,-,"AgrC1, AgrC2"
+202,"4-(4-benzylphenoxy)butanoic acid-STCAFIM, thiolacton linkage between C3 and M7","AIP, Autoinducing peptide",C50H67N7O11S2,-,"AgrC1, AgrC2"
+203,"4-(4-benzoylphenoxy)butanoic acid-STCAFIM, thiolacton linkage between C3 and M7","AIP, Autoinducing peptide",C50H65N7O12S2,-,"AgrC1, AgrC2"
+204,"YSTCDFI-CH(-A)-COOH, thiolacton linkage between C4 and COOH-terminus","AIP, Autoinducing peptide",C43H59N9O15S1,-,AgrC1
+205,"SVKPCTGFA, thiolacton linkage between C5 and A9","AIP, Autoinducing peptide",C40H62N10O11S,Staphylococcus cochnii subsp. urealyticum,AgrC
+206,SYPGWSW,PHRCACET1,C44H51N9O11,Clostridium acetobutylicum,Rap
+207,"(Obu)AGPAIRAAVKQAQK(Dhb)LKA(Dhb)RLF(Abu)VAAKGKNGAL, cyclisation between (Ala9-S-Ala13), (Abu24-S-Ala27) and (Ala26-S-Ala33)",Pep5,C153H255N47O39S3,Staphylococcus epidermidis,LanK
+208,TNRNYGKPNKDIGTCIWSGFRHC,Orf4,C115H176N37O33S2,Lactobacillus sakei,SapK
+209,TREW(farnesyl)DG,ComX RO-C-2,C47H70N10O12,Bacillus mojavensis,ComP
+210,VAVLVLGA,cOB1,C35H64N8O9,Enterococcus faecalis,-
+211,"VGARPCGGFF, thiolacton linkage between C6 and F10","AIP, Autoinducing peptide",C46H65N13O10S,Staphylococcus gallinarum,AgrC
+212,VPFEF,PapR5III,C33H43N5O8,Bacillus cereus,PlcRIII
+213,"QNSPNIFGQFM, lacton linkage between S3 and M11",-,C57H81N15O16S,-,FsrC
+214,WPFAHWPWQYPR,"RAP-binding peptide, RBP",C86H103N21O15,Synthetic,TRAP
+215,YKPWTNF-NH2,"RIP, RNAIII Inhibiting Peptide",C48H63N11O10,-,TRAP
+216,"YNPCANYL, thiolacton linkage between C4 and L8","AIP4, Autoinducing peptide 4",C43H58N10O12S,Staphylococcus epidermidis,AgrC4
+217,"YNPCASYL, thiolacton linkage between C4 and L8","AIP1, Autoinducing peptide 1",C42H57N9O12S,Staphylococcus epidermidis,AgrC1
+218,"YNPCSNYL, thiolacton linkage between C4 and L8","AIP3, Autoinducing peptide 3",C43H58N10O13S,Staphylococcus epidermidis,"AgrC1, AgrC3"
+219,"YNPCVGYF, thiolacton linkage between C4 and F8","AIP, Autoinducing peptide",C46H57N9O11S,Staphylococcus carnosus,AgrC
+220,"YNPCLGFI, thiolacton linkage between C4 and I8","AIP, Autoinducing peptide",C44H61N9O10S,Staphylococcus simulans,AgrC1
+221,IFW(Geranyl)EQ,[2¨C6]ComX RO-E-2,C46H63N7O9,-,ComP
+222,GAFW(Geranyl)EQ,[I2A]ComX RO-E-2,C45H60N8O10,-,ComP
+223,"YSTCAbuFIM, thiolacton linkage between C4 and M8",-,C43H62N8O11S2,-,"AgrC1, AgrC2"
+224,"YSTCSYYF, thiolacton linkage between C4 and F8","AIP, Autoinducing peptide",C49H58N8O14S,Staphylococcus caprae,AgrC1
+225,ETIIIIGGG,"Short Hydrophobic Peptide, SHP1509",C39H69N9O13,Streptococcus mutans,Rgg
+226,DILIIVGG,"Short Hydrophobic Peptide 3, SHP3",C37H66N8O11,Streptococcus agalactiae,Rgg
+227,DIIIIVGG,SHP2-C8,C37H66N8O11,-,Rgg
+228,EIIIIVGG,-,C38H68N8O11,-,Rgg
+229,EGIIVIVVG,SHP1358(15-23),C42H75N9O12,Streptococcus thermophilus,Rgg1358
+230,AILPYFAGCL,"ComS, SHP0316(18-24)",C52H78N10O12S,Streptococcus thermophilus,ComR
+231,GLDWWSL,ComS,C43H57N9O11,Streptococcus mutans,ComR
+232,DIFKLVIDHISMKARKK,SilCR,C93H160N26O23S,Streptococcus dysgalactiae,SilB
+233,SAVDWWRL,XIP,C49H69N13O12,Streptococcus pyogenes,ComR
+234,EFDWWNLG,XIP,C52H63N11O14,Streptococcus pyogenes,ComR
+235,DIIIIFPPFG,Short Hydrophobic Peptide;SHP1299,C58H86N10O13,Streptococcus thermophilus,Rgg
+236,"(D)INCDFLL, thiolacton linkage between C3 and L7",AIP3 D-I1,C38H58N8O10S1,-,"AgrC1, AgrC2, AgrC3, AgrC4"
+237,"I(D)NCDFLL, thiolacton linkage between C3 and L7",AIP3 D-N2,C38H58N8O10S,-,"AgrC1, AgrC2, AgrC3, AgrC4"
+238,RGQQNE,BsEDF,C27H46N12O12,Bacillus subtilis,-
+239,INEQTVVTK,PaEDF-1,C44H78N12O16,Pseudomonas aeruginosa,-
+240,VEVSDDGSGGNTSLSQ,PaEDF-2,C60H98N18O30,Pseudomonas aeruginosa,-
+241,APKLSDGAAAGYVTKA,PaEDF-3,C67H110N18O22,Pseudomonas aeruginosa,-
+242,NFGAPGGAYPW,QSP1,C55H69N13O14,Cryptococcus neoformans,TUP1
+243,APAAEPAPSVKSQNFGAPGGAYPW,QSP24,C113H158N28O32,Cryptococcus neoformans,TUP1
+244,NFGAPGGASPI,QSP2,C44H66N12O14,Cryptococcus neoformans,TUP1
+246,"GDSVCASYF, thiolacton linkage between C5 and F9",-,C41H55N9O14S,Synthetic,AgrC
+247,"SVCASYF, thiolacton linkage between C3 and F7",-,C35H47N7O10S,Synthetic,AgrC
+248,SKADT,-,C20H36N6O10,Synthetic,Cry1Aa
+249,SKPAD,-,C25H38N6O8,Synthetic,Cry1Aa
+250,"DSVSASYF, lacton linkage between S4 and F8",-,C39H52N8O14,Synthetic,AgrC
+251,"DSVDprASYF, lactam linkage between Dpr4 and F8",-,C39H53N9O13,Synthetic,AgrC
+252,SKPDT,NprRB,C22H38N6O10,Bacillus thuringiensis,Npr
+253,ARGMT,-,C20H38N8O7S,Synthetic,-
+254,ERNMT,-,C24H43N9O10S,Synthetic,-
+255,ERGQT,-,C22H39N9O10,Synthetic,-
+256,ARNMT,-,C22H41N9O8S,Synthetic,-
+257,ARGQT,-,C20H37N9O8,Synthetic,-
+258,ERNQT,-,C24H42N10O11,Synthetic,-
+259,ERAMT,-,C23H42N8O9S,Synthetic,/
+260,AKPDT,-,C22H38N6O9,Synthetic,Cry1Aa
+261,NVWNK,-,C30H45N9O8,Streptococcus pneumoniae,-
+262,PLWCA,-,C28H40N6O6S,Eikenella corodens,-
+263,NIWNR,-,C31H47N11O8,Streptococcus gordonii,-
+264,"benzyloxycarbonyl-QNSAAAFAAWA, lacton linkage between S3 and A11",-,C61H79N15O17,Synthetic,Fsr
+265,"benzyloxycarbonyl-QNSAAAFAQWA, lacton linkage between S3 and A11",-,C63H82N16O18,Synthetic,Fsr
+266,"benzyloxycarbonyl-QNSANAFAAWA, lacton linkage between S3 and A11",-,C62H80N16O18,Synthetic,Fsr
+267,"benzyloxycarbonyl-QNSAAIFAAWA, lacton linkage between S3 and A11",-,C64H85N15O17,Synthetic,Fsr
+268,"benzyloxycarbonyl-QNSPAAFAAWA, lacton linkage between S3 and A11",-,C63H81N15O17,Synthetic,Fsr
+269,"benzyloxycarbonyl-QNSAAAFAAWM, lacton linkage between S3 and M11",-,C63H83N15O17S,Synthetic,Fsr
+270,"benzyloxycarbonyl-QNSAAAFGAWA, lacton linkage between S3 and A11",-,C60H77N15O17,Synthetic,Fsr
+271,"benzyloxycarbonyl-QNSAAAFGAWM, lacton linkage between S3 and M11",-,C62H81N15O17S,Synthetic,Fsr
+272,"benzyloxycarbonyl-QNSANAFGAWA, lacton linkage between S3 and A11",-,C61H78N16O18,Synthetic,Fsr
+273,"benzyloxycarbonyl-QNSAAAFGQWA, lacton linkage between S3 and A1",-,C62H80N16O18,Synthetic,Fsr
+274,"benzyloxycarbonyl-QNSAAIFGAWA, lacton linkage between S3 and A1",-,C63H83N15O17,Synthetic,Fsr
+275,"benzyloxycarbonyl-QNSPAAFGAWA, lacton linkage between S3 and A11",-,C62H79N15O17,Synthetic,Fsr
+276,"benzyloxycarbonyl-QNSPAAFGAWM, lacton linkage between S3 and M11",-,C64H83N15O17S,Synthetic,Fsr
+277,"benzyloxycarbonyl-QNSPAAFGQWA, lacton linkage between S3 and A11",-,C64H82N16O18,Synthetic,Fsr
+278,"benzyloxycarbonyl-QNSPNAFGAWA, lacton linkage between S3 and A11",-,C63H80N16O18,Synthetic,Fsr
+279,"benzyloxycarbonyl-QNSPAIFGAWA, lacton linkage between S3 and A11",-,C65H85N15O17,Synthetic,Fsr
+280,"benzyloxycarbonyl-QNSPNIFGAWA, lacton linkage between S3 and A11",-,C66H86N16O18,Synthetic,Fsr
+281,"benzyloxycarbonyl-QNSPAIFGAWM, lacton linkage between S3 and M11",-,C67H89N15O17S,Synthetic,Fsr
+282,"benzyloxycarbonyl-QNSPAIFGQWA, lacton linkage between S3 and A11",-,C67H88N16O18,Synthetic,Fsr
+283,"benzyloxycarbonyl-QNSPF(pentafluor)IFGAWA, lacton linkage between S3 and A11",-,C71H84F5N15O17,Synthetic,Fsr
+284,"benzyloxycarbonyl-QNSPWIFGAWA, lacton linkage between S3 and A11",-,C73H90N16O17,Synthetic,Fsr
+285,"benzyloxycarbonyl-QNSPD(Obzl)IFGAWA, lacton linkage between S3 and A11",-,C73H91N15O19,Synthetic,Fsr
+286,"benzyloxycarbonyl-QNSPY(2,6-Cl2-Bzl)IFGAWA, lacton linkage between S3 and A11",-,C78H93Cl2N15O18,Synthetic,Fsr
+287,"benzyloxycarbonyl-QNSPY(Bzl)IFGAWA, lacton linkage between S3 and A11",-,C78H95N15O18,Synthetic,Fsr
+288,"QNSPNIFGQF(D)M, lacton linkage between S3 and M11",-,C57H81N15O16S,Synthetic,-
+289,"Ac-QNSPNIFGQWM, lacton linkage between S3 and M11",-,C61H84N16O17S,Synthetic,-
+290,PWASPSAARVFALGRDLPRAGCPLPQPS,TM0504,C131H205N39O35S,Thermotoga maritima,-
+291,"YSTC(alpha-aminobutyric acid)FIM, thiolacton linkage between C4 and M8",-,C43H62N8O11S2,Synthetic,"AgrC1, AgrC2"
+292,"N-4-(4-benzylphenoxy)butyryl-STCAFIM, thiolacton linkage between C4 and M8",-,C50H67N7O11S2,Synthetic,"AgrC1, AgrC2"
+293,"N-4-(4-benzoylphenoxy)butyryl-STCAFIM, thiolacton linkage between C4 and M8",-,C50H65N7O12S2,Synthetic,"AgrC1, AgrC2"
+294,"NASKYNPCSNYL, thiolacton linkage between C8 and L12",AIP-II,C59H86N16O19S,Staphylococcus epidermidis,"AgrC1, AgrC2, AgrC3"
+295,"NAAKYNPCASYL, thiolacton linkage between C8 and L12",AIP-III,C58H85N15O17S,Staphylococcus epidermidis,"AgrC1, AgrC2, AgrC3"
+296,IMDILIIVGG,SHP2-C10,C48H86N10O13S,Streptococcus pyogenes,Rgg
+297,MDILIIVGG,SHP2-C9,C42H75N9O12S,Streptococcus pyogenes,Rgg
+298,ILIIVGG,SHP2-C7,C33H61N7O8,Streptococcus pyogenes,Rgg
+299,AMDIIIIVGG,SHP3-C10,C45H80N10O13S,Streptococcus pyogenes,Rgg
+300,MDIIIIVGG,SHP3-C9,C42H75N9O12S,Streptococcus pyogenes,Rgg
+301,IIIIVGG,SHP3-C7,C33H61N7O8,Streptococcus pyogenes,Rgg
+302,KW(farnesyl)PPIE,ComX <sub>natto</sub>,C53H80N8O9,Bacillus subtilis,ComP
+303,"WKAE(Dha)VA(Abu)PGAV(Abu)GLLQ(Abu)AFLQ(Abu)I(Abu)ANAKI(Dha)K, cyclisation between (Ala3-S-Ala7), (Abu8-S-Ala11), (Abu13-S-Ala19), (Abu23-S-Ala26) and (Abu25-S-Ala28)",Entianin,C150H231N39O39S5,Bacillus subtilis,SpaK
+304,"CFMFV, thiolacton linkage between C1 and V5",AIP,C31H41N5O5S2,Listeria monocytogenes,AgrC
+305,"SFFIF, lacton linkage between S1 and F5",AgrD,C36H43N5O6,Clostridium thermocellum,/
+306,LDWWSLG,EBS1 XIP,C44H59N9O11,-,ComR
+307,TGWWMLG,EBS2 XIP,C41H56N10O9S,-,ComR
+308,ETEWWNVG,EBS3 XIP,C47H61N11O15,-,ComR
+309,CLWFT,-,C33H44N6O7S,-,/
+310,"CLWFT, thiolacton linkage between C1 and T5",-,C33H42N6O6S,-,/
+311,SLWFT,-,C33H44N6O8,-,/
+312,"SLWFT, lacton linkage between S1 and T5",-,C33H42N6O7,-,/
+313,"TSACLWFT, thiolacton linkage between C4 and T8",AgrD<sub>Cp</sub>,C43H59N9O11S,Clostridium perfringens,/
+314,"CLWFTH, thiolacton linkage between C1 and H6",-,C39H49N9O7S,-,/
+315,"TYLFTNS, lacton linkage between T1 and S7, modified at T1 and Y2",WS9326A,C54H68N8O13,Clostridium perfringens,VirSR
+316,"TYLFTNS, lacton linkage between T1 and S7, modified at T1",WS9326B,C54H70N8O13,Clostridium perfringens,VirSR
+317,"PFTFAFF, lacton linkage between T3 and F7, modified at P1, F6, F7",Cochinmicin II/III,C46H46ClN7O12,Clostridium perfringens,VirSR
+318,"INCAFLL, thiolacton linkage between C3 and L7",AIP3 D4A,C37H58N8O8S,-,"AgrC1, AgrC2, AgrC3, AgrC4"
+319,"IACDFLL, thiolacton linkage between C3 and L7",AIP3 N2A,C37H57N7O9S,-,"AgrC1, AgrC2, AgrC4"
+320,"ANCDFLL, thiolacton linkage between C3 and L7",AIP3 I1A,C35H52N8O10S,-,"AgrC1, AgrC2, AgrC3, AgrC4"
+321,"INCDFL(D)L, thiolacton linkage between C3 and L7",AIP3 D-L7,C38H58N8O10S,-,"AgrC1, AgrC2, AgrC4"
+322,"INDapAFLL, amide linkage between Dap3 and L7",AIP3 D4A amide,C37H59N9O8,-,"AgrC1, AgrC2, AgrC3, AgrC4"
+323,"Ac-DapAFLL, amide linkage between Dap1 and L5",tAIP3 D2A amide,C29H44N6O6,-,"AgrC1, AgrC2, AgrC3, AgrC4"
+324,"Ac-CNAYF, thiolacton linkage between C1 and F5",-,C30H36N6O8S,-,AgrC1
+325,"Ac-CNGYF, thiolacton linkage between C1 and F5",-,C29H34N6O8S,-,AgrC1
+326,"Ac-CASYF, thiolacton linkage between C1 and F5",-,C29H35N5O8S,-,AgrC1
+327,"Ac-CN(trityl)AY(tBu)F, thiolacton linkage between C1 and F5",-,C53H58N6O8S,-,AgrC1
+328,"Ac-CN(trityl)GY(tBu)F, thiolacton linkage between C1 and F5",-,C52H56N6O8S,-,AgrC1
+329,"ASVCASYF, thiolacton linkage between C4 and F8",-,C38H52N8O11S,-,AgrC1
+330,"DSACASYF, thiolacton linkage between C4 and F8",-,C37H48N8O13S,-,AgrC1
+332,"D(D)SVCASYF, thiolacton linkage between C4 and F8",-,C39H52N8O13S,-,AgrC1
+333,"DAVCASYF, thiolacton linkage between C4 and F8",-,C39H52N8O12S,-,AgrC1
+334,"DSVCAAYF, thiolacton linkage between C4 and F8",-,C39H52N8O12S,-,AgrC1
+335,"(D)DSVCASYF, thiolacton linkage between C4 and F8",-,C39H52N8O13S,-,AgrC1
+336,"DS(D)VCASYF, thiolacton linkage between C4 and F8",-,C39H52N8O13S,-,AgrC1
+337,"DSVCA(D)SYF, thiolacton linkage between C4 and F8",-,C39H52N8O13S,-,AgrC1
+338,"DSVCASY(D)F, thiolacton linkage between C4 and F8",-,C39H52N8O13S,-,AgrC1
+339,"DSVCYSYF, thiolacton linkage between C4 and F8",-,C45H56N8O14S,-,AgrC1
+340,"DSVCSSYF, thiolacton linkage between C4 and F8",-,C39H52N8O14S,-,AgrC1
+341,"DSACYSYF, thiolacton linkage between C4 and F8",-,C43H52N8O14S,-,AgrC1
+342,"DSACSSYF, thiolacton linkage between C4 and F8",-,C37H48N8O14S,-,AgrC1
+343,"ASVCAAYF , thiolacton linkage between C4 and F8",-,C38H52N8O10S,-,AgrC1
+344,"ASACAAYF, thiolacton linkage between C4 and F8",-,C36H48N8O10S,-,"AgrC1, AgrC2, AgrC3"
+345,"ASACSAYF, thiolacton linkage between C4 and F8",-,C36H48N8O11S,-,"AgrC1, AgrC2, AgrC3"
+346,"ASKYNPCSNYL, thiolacton linkage between C7 and L11",-,C55H80N14O17S,-,AgrC1
+347,"SKYNPCSNYL, thiolacton linkage between C6 and L10",-,C52H75N13O16S,-,AgrC1
+348,"NPCSNYL, thiolacton linkage between C3 and L7",-,C34H49N9O11S,-,AgrC1
+349,"Ac-CSNYL, thiolacton linkage between C1 and L5",-,C27H38N6O9S,-,AgrC1
+350,SAIRGA,Arbitrium,C23H43N9O8,Phage-produced,AimR
+351,GMPRGA,-,C23H41N9O7S,-,AimR
+352,SNGLDVGKAD,PhrA,C39H66N12O17,Synthetic,TprA
+353,SKPDIVG,NprX,C31H54N8O11,Bacillus cereus,NprR
+356,MWLLLLFL,-,C55H85N9O9S,Streptococcus pyogenes,"RopB, RopB_sp"
+357,MWLILLFL,-,C55H85N9O9S,-,RopB_ss
+358,MWWLILIDF,-,C64H89N11O12S,-,RopB_em
+359,MLLWLLLL,-,C52H87N9O9S,-,RopB_lr

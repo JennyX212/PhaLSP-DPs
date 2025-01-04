@@ -1,0 +1,506 @@
+Code,Protein,Mechanism,Category,Autoinducer Type,Bacteria,Strain,Gram Type,Ligand,Mutagenesis,Method,Res. (?),Year,DOI
+4EJV,TcaR,Signalling,Transcriptional Regulator,,Staphylococcus epidermidis,ATCC 35984,,Chloramphenicol,No,X-Ray Diffraction,2.9,2012,10.1371/journal.pone.0045665
+4EJW,TcaR,Signalling,Transcriptional Regulator,,Staphylococcus epidermidis,ATCC 35984,,Streptomycin,No,X-Ray Diffraction,2.8,2012,10.1371/journal.pone.0045665
+4EJU,TcaR,Signalling,Transcriptional Regulator,,Staphylococcus epidermidis,ATCC 35984,,,No,X-Ray Diffraction,2.4,2012,10.1371/journal.pone.0045665
+3KP7,TcaR,Signalling,Transcriptional Regulator,,Staphylococcus epidermidis,ATCC 35984,,,No,X-Ray Diffraction,2.3,2009,10.1073/pnas.0913302107
+4EJT,TcaR,Signalling,Transcriptional Regulator,,Staphylococcus epidermidis,ATCC 35984,,,No,X-Ray Diffraction,3,2012,10.1371/journal.pone.0045665
+3KP5,TcaR,Signalling,Transcriptional Regulator,,Staphylococcus epidermidis,ATCC 35984,,Kanamycin,No,X-Ray Diffraction,3,2009,10.1073/pnas.0913302107
+3KP6,TcaR,Signalling,Transcriptional Regulator,,Staphylococcus epidermidis,ATCC 35984,,Salicylate,No,X-Ray Diffraction,2.45,2009,10.1073/pnas.0913302107
+3KP4,TcaR,Signalling,Transcriptional Regulator,,Staphylococcus epidermidis,ATCC 35984,,Methicilin,No,X-Ray Diffraction,2.84,2009,10.1073/pnas.0913302107
+3KP2,TcaR,Signalling,Transcriptional Regulator,,Staphylococcus epidermidis,ATCC 35984,,,No,X-Ray Diffraction,2.55,2009,10.1073/pnas.0913302107
+3KP3,TcaR,Signalling,Transcriptional Regulator,,Staphylococcus epidermidis,ATCC 35984,,Ampicilin,No,X-Ray Diffraction,3.2,2009,10.1073/pnas.0913302107
+5OLT,BcsG,EPS,Synthase,,Salmonella typhimurium,ATCC 700720,,,No,X-Ray Diffraction,1.45,2017,10.1016/j.jmb.2018.07.008
+5UIC,QseB,Signalling,Two Component system,,Francisella tularensis,U112,,,No,X-Ray Diffraction,2.487,2017,10.1111/mmi.13759
+2MHJ,TpsB4,Motility,Adhesion,,Pseudomonas aeruginosa,PAO1,,,No,SOLUTION NMR,,2013,10.1002/pro.2640
+6PD0,BcsG,EPS,Synthase,,Escherichia coli,K12,,,No,X-Ray Diffraction,1.75,2019,10.1074/jbc.RA119.011668
+5OJH,BcsG,EPS,Synthase,,Salmonella typhimurium,ATCC 700720,,,No,X-Ray Diffraction,1.55,2017,10.1016/j.jmb.2018.07.008
+4Y9M,PA3825,Signalling,Hydrolase,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.6,2016,10.1038/srep42166
+6PCZ,BcsG,EPS,Synthase,,Escherichia coli,K12,,,No,X-Ray Diffraction,1.44,2019,10.1074/jbc.RA119.011668
+5MKG,PA3825,Signalling,Hydrolase,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.44,2016,10.1038/srep42166
+5M1T,PaMucR,Signalling,Hydrolase,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.27,2016,10.1038/srep42166
+5MF5,PA3825,Signalling,Hydrolase,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.77,2016,10.1038/srep42166
+5MFU,PA3825,Signalling,Hydrolase,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.15,2016,10.1038/srep42166
+3TIQ,SasG,Motility,Adhesion,,Staphylococcus aureus,NCTC 8325,,,No,X-Ray Diffraction,1.874,2011,10.1073/pnas.1119456109
+5DBL,SasG?,Motility,Adhesion,,Staphylococcus aureus,NCTC 8325,,,No,X-Ray Diffraction,1.6,2015,10.1073/pnas.1608762113
+4WVE,SasG,Motility,Adhesion,,Staphylococcus aureus,NCTC 8325,,,No,X-Ray Diffraction,1.6,2014,10.1038/ncomms8271
+3TIP,SasG,Motility,Adhesion,,Staphylococcus aureus,NCTC 8325,,,No,X-Ray Diffraction,1.701,2011,10.1073/pnas.1119456109
+4P00,BcsG,Signalling,Synthase,,Rhodobacter sphaeroides,ATCC 17023,,,No,X-Ray Diffraction,3.2,2014,10.1038/nsmb.2803
+4P02,BcsG,Signalling,Synthase,,Rhodobacter sphaeroides,ATCC 17023,,,No,X-Ray Diffraction,2.65,2014,10.1038/nsmb.2803
+4AE5,Trap,Signalling,Transcriptional Regulator,,Staphylococcus aureus,NCTC 8325,,,Yes,X-Ray Diffraction,1.85,2012,10.1107/S1744309112020167
+5CYL,CupB6,Motility,Adhesion,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.77,2015,10.1016/j.bbapap.2016.07.010
+5D55,Hda-Hdb,Motility,Adhesion,,Escherichia coli,,,,No,X-Ray Diffraction,2,2015,10.1002/pro.2982
+3WE9,YisP,Signalling,Phosphatase,,Bacillus Subtilis,168,,,No,X-Ray Diffraction,1.92,2013,10.1016/j.chembiol.2014.08.018
+3HV9,FimX,Motility,Hydrolase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.298,2009,10.1016/j.str.2009.06.010
+4J40,FimX,Motility,Hydrolase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.99,2013,10.1016/j.str.2009.06.010
+3HVA,FimX,Motility,Hydrolase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.042,2009,10.1016/j.str.2009.06.010
+4AFY,FimX,Motility,Hydrolase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.01,2012,10.1371/journal.pone.0052424
+4AG0,FimX,Motility,Hydrolase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.304,2012,10.1371/journal.pone.0052424
+3HV8,FimX,Motility,Hydrolase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.445,2009,10.1016/j.str.2009.06.010
+2XBZ,RetS,Signalling,Two Component system,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.65,2010,10.1111/j.1462-2920.2010.02264.x
+6DK7,RetS,Signalling,Two Component system,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.6,2018,10.1016/j.str.2019.02.006
+6DK8,RetS,Signalling,Two Component system,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,3.8,2018,10.1016/j.str.2019.02.006
+6JZK,FimA,Motility,Adhesion,,Porphyromonas gingivalis,ATCC 33277,,,No,X-Ray Diffraction,2.1,2019,10.1038/s41564-020-0705-1
+3QDH,FimA,Motility,Adhesion,,Actinomyces fimbrial,,,,No,X-Ray Diffraction,1.9,2011,10.1111/j.1365-2958.2011.07745.x
+6ERJ,FimA,Motility,Adhesion,,Shigella flexneri,,,,No,X-Ray Diffraction,1.69,2017,10.1074/jbc.RA119.008610
+5LP9,FimA,Motility,Adhesion,,Salmonella enterica,ATCC 9150,,,No,X-Ray Diffraction,0.89,2016,10.1074/jbc.RA119.008610
+5NKT,FimA,Motility,Adhesion,,Escherichia coli,BL12,,,No,X-Ray Diffraction,1.5,2017,10.1074/jbc.RA119.008610
+6JZJ,FimA,Motility,Adhesion,,Porphyromonas gingivalis,ATCC 33277,,,No,X-Ray Diffraction,1.6,2019,10.1038/s41564-020-0705-1
+6KMF,FimA,Motility,Adhesion,,Porphyromonas gingivalis,ATCC 33277,,,No,X-Ray Diffraction,3.6,2019,10.1038/s41564-020-0705-1
+3PQJ,BigR,Quorum-Sensing,Transcriptional Regulator,,Xylella fastidiosa,9a5c,,,No,X-Ray Diffraction,2.48,2010,10.1074/jbc.M111.234039
+3PQK,BigR,Quorum-Sensing,Transcriptional Regulator,,Xylella fastidiosa,9a5c,,,No,X-Ray Diffraction,2.09,2010,10.1074/jbc.M111.234039
+4EUO,PelD,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,C2E,Yes,X-Ray Diffraction,1.07,2012,10.1074/jbc.M112.378273
+4EUV,PelD,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,C2E,Yes,X-Ray Diffraction,2,2012,10.1074/jbc.M112.378273
+4ETZ,PelD,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,C2E,Yes,X-Ray Diffraction,2.05,2012,10.1074/jbc.M112.378273
+4ETX,PelD,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2,2012,10.1074/jbc.M112.378273
+5TCB,PelA,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,pGpG,Yes,X-Ray Diffraction,1.535,2016,Not available
+5MFU,PelA,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.15,2016,10.1038/srep42166
+5TSY,PelA?,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.9,2016,Not available
+5EXT,FleQ,Quorum-Sensing,Transcriptional Regulator,,Pseudomonas aeruginosa,PAO1,,ADP,No,X-Ray Diffraction,2.4,2015,10.1073/pnas.1523148113
+5WFT,PelB,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.821,2017,10.1074/jbc.M117.812842
+5EXS,FleQ,Quorum-Sensing,Transcriptional Regulator,,Pseudomonas aeruginosa,PAO1,,ATP,No,X-Ray Diffraction,2.5,2015,10.1073/pnas.1523148113
+5EXP,FleQ,Quorum-Sensing,Transcriptional Regulator,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.8,2015,10.1073/pnas.1523148113
+5EXX,FleQ,Quorum-Sensing,Transcriptional Regulator,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,3.311,2015,10.1073/pnas.1523148113
+6J7E,FleQ,Quorum-Sensing,Transcriptional Regulator,,Pseudomonas aeruginosa,,,ATPgS,No,X-Ray Diffraction,2.4,2019,10.1021/acschembio.9b00255
+6JDL,FleQ,Quorum-Sensing,Transcriptional Regulator,,Pseudomonas aeruginosa,,,ATPgS,No,X-Ray Diffraction,2.25,2019,10.1021/acschembio.9b00255
+5BX9,PsIG,Dispersion,Hydrolase,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.001,2015,10.1074/jbc.M115.674929
+5BXA,PsIG,Dispersion,Hydrolase,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.9,2015,10.1074/jbc.M115.674929
+4P9F,McbR/YncC,EPS,Transcriptional Regulator,,Escherichia coli,UMEA 3718-1,,,No,X-Ray Diffraction,2.099,2014,10.1021/bi500871a
+5Z2L,BdcA,Dispersion,Oxidoreductase,,Escherichia coli,K12,,NADPH,No,X-Ray Diffraction,1.7,2018,10.1016/j.bbrc.2018.02.143
+4PCV,BdcA,Dispersion,Oxidoreductase,,Escherichia coli,P0299438.9,,,No,X-Ray Diffraction,2.05,2014,10.1371/journal.pone.0105751
+4P7O,PgaB,EPS,Matrix Protein,,Escherichia coli,K12,,,No,X-Ray Diffraction,1.48,2014,10.1073/pnas.1406388111
+6AU1,PgaB,EPS,Matrix Protein,,Bordetella bronchiseptica,RB50,,,No,X-Ray Diffraction,1.76,2014,10.1371/journal.ppat.1006998
+4P7Q,PgaB-PNAG,EPS,Matrix Protein,,Escherichia coli,K12,,N-acetyl-D-Glucosamine,No,X-Ray Diffraction,1.651,2014,10.1073/pnas.1406388111
+4P7R,PgaB-PNAG,EPS,Matrix Protein,,Escherichia coli,K12,,N-acetyl-D-Glucosamine,No,X-Ray Diffraction,1.8,2014,10.1073/pnas.1406388111
+6EVU,PrgB,Motility,Adhesion,,Enterococcus faecalis,,,,No,X-Ray Diffraction,1.598,2017,10.1111/mmi.13980
+6GED,PrgB,Motility,Adhesion,,Enterococcus faecalis,,,,No,X-Ray Diffraction,1.794,2017,10.1111/mmi.13980
+4P7N,PgaB,EPS,Matrix Protein,,Escherichia coli,K12,,,No,X-Ray Diffraction,1.89,2014,10.1073/pnas.1406388111
+5Y9H,SafD,Motility,Adhesion,,Salmonella,,,,No,X-Ray Diffraction,2.8,2017,10.7554/eLife.28619
+2KUB,Fap1,Motility,Adhesion,,Streptococcus parasanguinis,,,,No,SOLUTION NMR,,2009,10.1074/jbc.M110.128165
+5Y9G,SafD,Motility,Adhesion,,Salmonella,,,,No,X-Ray Diffraction,2.2,2017,10.7554/eLife.28619
+3RGU,Fap1,Motility,Adhesion,,Streptococcus parasanguinis,,,,No,X-Ray Diffraction,3,2011,10.1016/j.bbrc.2011.11.131
+2X12,Fap1,Motility,Adhesion,,Streptococcus parasanguinis,,,,No,X-Ray Diffraction,2.9,2009,10.1074/jbc.M110.128165
+2ZCM,IcaR?,Quorum-Sensing,Transcriptional Regulator,,Staphylococcus epidermidis,ATCC 35984,,,No,X-Ray Diffraction,1.33,2007,10.1093/nar/gkm1176
+2ZCN,IcaR,Quorum-Sensing,Transcriptional Regulator,,Staphylococcus epidermidis,ATCC 35984,,,No,X-Ray Diffraction,1.9,2007,10.1093/nar/gkm1176
+5X5I,RcdA,Quorum-Sensing,Transcriptional Regulator,,Escherichia coli,K12,,,No,X-Ray Diffraction,2.554,2017,10.1002/1873-3468.12713
+3GEU,IcaR,Quorum-Sensing,Transcriptional Regulator,,Staphylococcus aureus,COL,,,No,X-Ray Diffraction,1.9,2009,Not available
+7ACM,RcdA,Quorum-Sensing,Transcriptional Regulator,,Escherichia coli,K12,,TMAO,No,X-Ray Diffraction,1.76,2020,10.1002/prot.26183
+7ACO,RcdA,Quorum-Sensing,Transcriptional Regulator,,Escherichia coli,K12,,,No,X-Ray Diffraction,1.8,2020,10.1002/prot.26183
+7ACL,RcdA,Quorum-Sensing,Transcriptional Regulator,,Escherichia coli,K12,,,No,X-Ray Diffraction,2.05,2020,10.1002/prot.26183
+2LZF,AbbA,EPS,Matrix Protein,,Bacillus Subtilis,168,,,No,SOLUTION NMR,,2012,10.1016/j.jmb.2014.02.010
+6HQC,TasA,Motility,Protein Fibril,,Bacillus Subtilis,168,,,No,X-Ray Diffraction,1.28,2018,Not available
+4P7L,PNAG,Quorum-Sensing,Membrane Protein,,Escherichia coli,,,,No,X-Ray Diffraction,1.802,2014,10.1073/pnas.1406388111
+4B2O,YmdB,Quorum-Sensing,Transcriptional Regulator,,Bacillus Subtilis,168,,,Yes,X-Ray Diffraction,1.64,2012,10.1128/JB.00826-13
+5O7J,GacS,Quorum-Sensing,Histidine Kinase,,Pseudomonas aeruginosa,,,,No,SOLUTION NMR,,2017,10.1038/s41598-017-11361-3
+5XGB,PA0861,Dispersion,Transcriptional Regulator,,Pseudomonas aeruginosa,,,,No,X-Ray Diffraction,2.28,2017,10.1128/JB.00515-17
+5KED,YcgR/MrkH,Motility,Transferase,,Klebsiella pneumoniae,,,,No,X-Ray Diffraction,2.65,2016,Not available
+3QS3,EcpD,Motility,Membrane Protein,,Escherichia coli,,,,No,X-Ray Diffraction,2.1,2011,10.1073/pnas.1106733109
+5XGE,PA0861,Dispersion,Transcriptional Regulator,,Pseudomonas aeruginosa,,,,No,X-Ray Diffraction,3.31,2017,10.1128/JB.00515-17
+5XGD,PA0861,Dispersion,Transcriptional Regulator,,Pseudomonas aeruginosa,,,,No,X-Ray Diffraction,2.8,2017,10.1128/JB.00515-17
+6IKK,YfiB-YfiR?,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.19,2018,10.1016/j.bbrc.2018.10.190
+6IKI,YfiB?,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.204,2018,10.1016/j.bbrc.2018.10.190
+6IKJ,YfiB?,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.76,2018,10.1016/j.bbrc.2018.10.190
+5EB2,YfiR,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.709,2015,10.1007/s13238-016-0264-7
+5EB3,YfiR,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.4,2015,10.1007/s13238-016-0264-7
+5Y61,YfiB-YfiR,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.99,2017,10.1016/j.bbrc.2017.08.139
+5EAZ,YfiB,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.151,2015,10.1007/s13238-016-0264-7
+5EB0,YfiB,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.8,2015,10.1007/s13238-016-0264-7
+5EB1,YfiB-YfiR?,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.8,2015,10.1007/s13238-016-0264-7
+4ZHY,YfiB?,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.969,2015,10.1038/srep16915
+4ZHW,YfiB,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.391,2015,10.1038/srep16915
+4ZHW,YfiB,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.39,2015,10.1038/srep16915
+4XJY,YfiR,Signalling,Periplasmic Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.8,2015,Not available
+1RKT,YfiR,Signalling,Periplasmic Protein,,Bacillus subtilis,168,,,No,X-Ray Diffraction,1.95,2006,10.1002/prot.21073
+4ZHV,YfiB,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.585,2015,10.1038/srep16915
+4YN7,YfiR,Signalling,Periplasmic Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.6,2015,10.1016/j.bbrc.2015.03.160
+4YNA,YfiR,Signalling,Periplasmic Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,3.2,2015,10.1016/j.bbrc.2015.03.160
+4YN9,YfiR?,Signalling,Periplasmic Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.45,2015,10.1016/j.bbrc.2015.03.160
+5BU6,BpsB?,Quorum-Sensing,Hydrolase,,Bordetella bronchiseptica,,,,No,X-Ray Diffraction,1.951,2015,10.1074/jbc.M115.672469
+5Y62,YfiR,Signalling,Periplasmic Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,3,2017,10.1016/j.bbrc.2017.08.139
+5DFK,EcpB,Motility,Membrane Protein,,Escherichia coli,K12,,,No,X-Ray Diffraction,2.4,2015,10.1371/journal.ppat.1005269
+4O8B,BswR,Motility,Transcriptional Regulator,,Pseudomonas aeruginosa,,,,No,X-Ray Diffraction,2.3,2013,10.1093/nar/gku106
+2OXL,YmgB,Quorum-Sensing,Transcriptional Regulator,,Escherichia coli,,,,No,X-Ray Diffraction,1.8,2007,10.1016/j.jmb.2007.07.037
+3QS2,EcpA,Motility,Membrane Protein,,Escherichia coli,,,,No,X-Ray Diffraction,1.78,2011,10.1073/pnas.1106733109
+4PH8,AggA,Motility,Adhesion,,Escherichia coli,,,,No,X-Ray Diffraction,1.55,2014,10.1371/journal.ppat.1004404
+4OR1,AafB,Motility,Adhesion,,Escherichia coli,,,,No,X-Ray Diffraction,3,2014,10.1371/journal.ppat.1004404
+2MPV,AafA,Motility,Adhesion,,Escherichia coli,,,,No,SOLUTION NMR,,2014,10.1371/journal.ppat.1004404
+4PHX,AggB,Motility,Adhesion,,Escherichia coli,,,,No,X-Ray Diffraction,2.4,2014,10.1371/journal.ppat.1004404
+7DM0,Bap,EPS,Matrix Protein,,Staphylococcus aureus,,,,No,X-Ray Diffraction,1.55,2021,10.15252/embj.2020107500
+6MLT,Bap1,EPS,Matrix Protein,,Vibrio cholerae,,,,No,X-Ray Diffraction,1.9,2018,10.1074/jbc.RA119.008335
+7C7R,Bap,EPS,Matrix Protein,,Staphylococcus aureus,,,,No,X-Ray Diffraction,3.07,2021,10.15252/embj.2020107500
+5OMT,NucB,Dispersion,Endonuclease,,Bacillus licheniformis,,,,No,X-Ray Diffraction,1.35,2017,10.1093/nar/gkx1170
+5KEC,MrkH,Motility,Transcriptional Regulator,,Klebsiella pneumoniae,,,,No,X-Ray Diffraction,1.949,2016,Not available
+7C7U,Bap,EPS,Matrix Protein,,Staphylococcus aureus,,,,No,X-Ray Diffraction,1.93,2021,10.15252/embj.2020107500
+6EJU,NucB,Dispersion,Endonuclease,,Bacillus licheniformis,,,,No,X-Ray Diffraction,1.9,2017,Not available
+6EJV,NucB,Dispersion,Endonuclease,,Bacillus licheniformis,,,,No,X-Ray Diffraction,1.75,2017,Not available
+6EJS,NucB,Dispersion,Endonuclease,,Bacillus licheniformis,,,,No,X-Ray Diffraction,1.6,2017,Not available
+6EJT,NucB,Dispersion,Endonuclease,,Bacillus licheniformis,,,,No,X-Ray Diffraction,1.7,2017,Not available
+4FUM,AAP?,Motility,Adhesion,,Staphylococcus epidermidis,ATCC-35984,,,No,X-Ray Diffraction,2.4,2012,10.1073/pnas.1208134110
+4ZN2,PsIG,Dispersion,Hydrolase,,Pseudomonas aeruginosa,,,,No,X-Ray Diffraction,2,2015,10.1038/cr.2015.129
+4FUP,AAP?,Motility,Adhesion,,Staphylococcus epidermidis,ATCC-35984,,,No,X-Ray Diffraction,2.51,2012,10.1073/pnas.1208134110
+4FUN,AAP,Motility,Adhesion,,Staphylococcus epidermidis,ATCC-35984,,,No,X-Ray Diffraction,2.31,2012,10.1073/pnas.1208134110
+4WXM,FleQ,Motility,Transcriptional Regulator,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.3,2014,10.1016/j.jsb.2015.09.002
+4FUO,AAP,Motility,Adhesion,,Staphylococcus epidermidis,ATCC-35984,,,No,X-Ray Diffraction,1.97,2012,10.1073/pnas.1208134110
+5WJU,Flagellin?,Motility,Protein Fibril,,Bacillus subtilis,,,,No,Cryo-EM,4.3,2017,10.1038/s41467-017-01075-5
+5FHY,FliD,Motility,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.201,2015,10.7554/eLife.18857
+5WJX,Flagellin?,Motility,Protein Fibril,,Bacillus subtilis,,,,No,Cryo-EM,6.7,2017,10.1038/s41467-017-01075-5
+5WJW,Flagellin?,Motility,Protein Fibril,,Bacillus subtilis,,,,No,Cryo-EM,4.4,2017,10.1038/s41467-017-01075-5
+5WJV,Flagellin?,Motility,Protein Fibril,,Bacillus subtilis,,,,No,Cryo-EM,5.5,2017,10.1038/s41467-017-01075-5
+5WK5,Flagellin?,Motility,Protein Fibril,,Pseudomonas aeruginosa,PAO1,,,No,Cryo-EM,4.2,2017,10.1038/s41467-017-01075-5
+5WJZ,Flagellin?,Motility,Protein Fibril,,Bacillus subtilis,,,,No,Cryo-EM,5.7,2017,10.1038/s41467-017-01075-5
+5WJY,Flagellin?,Motility,Protein Fibril,,Bacillus subtilis,,,,No,Cryo-EM,4.5,2017,10.1038/s41467-017-01075-5
+3JVU,PilT,Motility,Membrane Protein,,Pseudomonas aeruginosa,,,,No,X-Ray Diffraction,3.1,2009,10.1016/j.jmb.2010.05.066
+5WJT,Flagellin?,Motility,Protein Fibril,,Bacillus subtilis,168,,,No,Cryo-EM,3.8,2017,10.1038/s41467-017-01075-5
+5WK6,Flagellin?,Motility,Protein Fibril,,Pseudomonas aeruginosa,PAO1,,,No,Cryo-EM,4.3,2017,10.1038/s41467-017-01075-5
+5UVR,PilO,Motility,Membrane Protein,,Pseudomonas aeruginosa,,,,No,X-Ray Diffraction,1.7,2017,Not available
+6BBK,PilA,Motility,Membrane Protein,,Pseudomonas aeruginosa,,,,No,X-Ray Diffraction,1.73,2017,Not available
+4B60,FnbpA,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,1.83,2012,10.1074/jbc.M113.543546
+4B5Z,FnbpA,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,2.2,2012,10.1074/jbc.M113.543546
+2RL0,FnbpA-5,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,2,2007,10.1073/pnas.0803556105
+2RKZ,FnbpA-1,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,2,2007,10.1073/pnas.0803556105
+3CAL,FnbpA-1,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,1.7,2008,10.1073/pnas.0803556105
+3AU0,ClfB?,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,2.45,2010,Not available
+2RKY,FnbpA-1,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,1.8,2007,10.1073/pnas.0803556105
+3ASW,ClfB?,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,2.6,2010,Not available
+3AT0,ClfB?,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,2.5,2010,Not available
+4F24,ClfB,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,2.509,2012,10.1371/journal.ppat.1002751
+4F20,ClfB,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,2.502,2012,10.1371/journal.ppat.1002751
+4F1Z,ClfB,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,2.3.,2012,10.1371/journal.ppat.1002751
+4F27,ClfB,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,1.917,2012,10.1371/journal.ppat.1002751
+5JQ6,ClfA?,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,2.4,2016,10.1016/j.ebiom.2016.09.027
+2VR3,ClfA?,EPS,Matrix Protein,,Staphylococcus aureus,Newman,,,No,X-Ray Diffraction,1.95,2008,10.1371/journal.ppat.1000226
+4BHU,BslA?,EPS,Matrix Protein,,Bacillus subtilis,168,,,No,X-Ray Diffraction,1.91,2013,10.1073/pnas.1306390110
+5V6F,RbmC,EPS,Matrix Protein,,Vibrio cholerae,,,,No,X-Ray Diffraction,1.5,2017,10.1371/journal.ppat.1006841
+5V6K,RbmC,EPS,Matrix Protein,,Vibrio cholerae,,,,No,X-Ray Diffraction,1.8,2017,10.1371/journal.ppat.1006841
+5V6C,RbmC,EPS,Matrix Protein,,Vibrio cholerae,,,,No,X-Ray Diffraction,2.2,2017,10.1371/journal.ppat.1006841
+4KKR,RbmA,EPS,Matrix Protein,,Vibrio cholerae,,,,No,X-Ray Diffraction,2,2013,10.1128/JB.00374-13
+4KKQ,RbmA,EPS,Matrix Protein,,Vibrio cholerae,,,,No,X-Ray Diffraction,2.16,2013,10.1128/JB.00374-13
+5G50,RbmA,EPS,Matrix Protein,,Vibrio cholerae,,,,No,X-Ray Diffraction,2.3,2016,Not available
+4KKP,RbmA,EPS,Matrix Protein,,Vibrio cholerae,,,,No,X-Ray Diffraction,2.5,2013,10.1128/JB.00374-13
+4BE6,RbmA,EPS,Matrix Protein,,Vibrio cholerae,,,,No,X-Ray Diffraction,2.46,2013,10.1371/journal.pone.0082458
+4BE5,RbmA,EPS,Matrix Protein,,Vibrio cholerae,,,,No,X-Ray Diffraction,2.46,2013,10.1371/journal.pone.0082458
+4BEI,RbmA,EPS,Matrix Protein,,Vibrio cholerae,,,,No,X-Ray Diffraction,2.46,2013,10.1371/journal.pone.0082458
+4UV2,CsgG,EPS,Membrane Protein,,Escherichia coli,DE3,,,No,X-Ray Diffraction,2.8,2014,10.1038/nature13768
+3X2R,CsgG,EPS,Membrane Protein,,Escherichia coli,DE3,,,No,X-Ray Diffraction,2.9,2014,10.1073/pnas.1411942111
+4UV3,CsgG,EPS,Membrane Protein,,Escherichia coli,DE3,,,No,X-Ray Diffraction,3.59,2014,10.1038/nature13768
+2XSK,CsgC,EPS,Curly Assembly,,Escherichia coli,DE3,,,No,X-Ray Diffraction,1.7,2010,10.1107/S0907444910042022
+4Q79,CsgG,EPS,Membrane Protein,,Escherichia coli,DE3,,,No,X-Ray Diffraction,3.1,2014,10.1073/pnas.1411942111
+2Y2Y,CsgC,EPS,Curly Assembly,,Escherichia coli,DE3,,,No,X-Ray Diffraction,2,2010,10.1016/j.str.2011.05.015
+2Y2T,CsgC,EPS,Curly Assembly,,Escherichia coli,DE3,,,No,X-Ray Diffraction,2.3,2010,10.1016/j.str.2011.05.015
+5XP0,CsgD,EPS,Transcriptional Regulator,,Salmonella typhimurium,ATCC-700720,,,No,X-Ray Diffraction,2,2017,Not available
+4KH3,Ag43,EPS,Autotransporter Adhesin,,Escherichia coli,ATCC-700028,,,No,X-Ray Diffraction,2.5,2013,10.1073/pnas.1311592111
+5ZA3,VicR,EPS,Transcriptional Regulator,,Streptococcus mutans,ATCC-700610,,,No,X-Ray Diffraction,1.5,2018,Not available
+3AIC,GtfC,EPS,Synthesis of EPS,,Streptococcus mutans,ATCC-700610,,,No,X-Ray Diffraction,3.11,2010,10.1016/j.jmb.2011.02.028
+3AIE,GtfC,EPS,Synthesis of EPS,,Streptococcus mutans,ATCC-700610,,,No,X-Ray Diffraction,2.1,2010,10.1016/j.jmb.2011.02.028
+3AIB,GtfC,EPS,Synthesis of EPS,,Streptococcus mutans,ATCC-700610,,,No,X-Ray Diffraction,3.09,2010,10.1016/j.jmb.2011.02.028
+1PN3,GtfA,EPS,Synthesis of EPS,,Amycolatopsis orientalis,,,,No,X-Ray Diffraction,2.8,2003,10.1073/pnas.1233577100
+1PNV,GtfA,EPS,Synthesis of EPS,,Amycolatopsis orientalis,,,,No,X-Ray Diffraction,2.8,2003,10.1073/pnas.1233577100
+4PQG,GtfA,EPS,Synthesis of EPS,,Streptococcus pneumoniae,ATCC-BAA-334,,,No,X-Ray Diffraction,2,2014,10.1074/jbc.M114.581934
+6LNW,GtfA,EPS,Synthesis of EPS,,Streptococcus pneumoniae,TIGR4,,,No,X-Ray Diffraction,2.9,2020,10.1016/j.bbrc.2020.01.146
+5E9U,GtfA/B,EPS,Synthesis of EPS,,Streptococcus gordonii,,,,No,X-Ray Diffraction,3.84,2015,10.1073/pnas.1600494113
+5E9T,GtfA/B?,EPS,Synthesis of EPS,,Streptococcus gordonii,,,,No,X-Ray Diffraction,2.92,2015,10.1073/pnas.1600494113
+5D21,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.9,2015,10.1039/c5ob01682g
+4YWA,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,Divalent Galactoside,No,X-Ray Diffraction,1.192,2015,10.1021/acschembio.5b00302
+4YW7,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,Divalent Galactoside,No,X-Ray Diffraction,1.82,2015,10.1021/acschembio.5b00302
+4YW6,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,Divalent Galactoside,No,X-Ray Diffraction,1.4,2015,10.1021/acschembio.5b00302
+4LK6,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,Chlorophenol Red-b-D-galactopyranoside,No,X-Ray Diffraction,2.859,2013,10.1021/cb400303w
+4LK7,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,Resorufin-b-D-galactopyranoside,No,X-Ray Diffraction,1.758,2013,10.1021/cb400303w
+4LJH,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.45,2013,10.1021/cb400303w
+4CPB,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,Galactoside,No,X-Ray Diffraction,1.57,2014,10.1002/anie.201402831
+4CP9,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,Galactoside,No,X-Ray Diffraction,1.65,2014,10.1002/anie.201402831
+4AL9,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.75,2012,10.1002/prot.24430
+4A6S,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,2-Naphtyl-1-thio-beta-D-galactopyranoside,No,X-Ray Diffraction,2.15,2011,10.1039/c3ob41422a
+3ZYH,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,GALBG0,No,X-Ray Diffraction,1.501,2011,10.1002/anie.201104342
+3ZYF,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,NPG,No,X-Ray Diffraction,1.944,2011,10.1002/anie.201104342
+3ZYB,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.29,2011,10.1002/anie.201104342
+2WYF,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.4,2009,10.1074/jbc.M110.108340
+2VXJ,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.9,2008,10.1016/j.jmb.2008.08.028
+1UOJ,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.4,2003,10.1016/s0014-5793(03)01249-3
+1OKO,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.6,2003,10.1016/s0014-5793(03)01249-3
+1L7L,LecA/PA-IL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.5,2002,Not available
+6YOH,LecA,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,Catechol 61445-50-9,No,X-Ray Diffraction,1.84,2020,10.1002/anie.202013217
+5MIH,LecA & GalA,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,7NU,No,X-Ray Diffraction,1.8,2016,10.1002/anie.201709368
+6YO3,LecA,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,Catechol 67984-81-0,No,X-Ray Diffraction,1.84,2020,10.1002/anie.202013217
+4LKE,LecA & GaIA-WRI,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.653,2013,10.1002/chem.201302587
+4LKF,LecA & GaIA-WKY,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.64,2013,10.1002/chem.201302587
+4LKD,LecA & GaIA-QRS,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.307,2013,10.1002/chem.201302587
+6R35,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.8,2019,10.1016/j.ejmech.2019.05.049
+5MAZ,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.45,2016,Not available
+3ZDV,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.41,2012,10.1021/cb400371r
+5A3O,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.6,2015,10.1002/open.201500162
+5MB1,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.65,2016,10.1021/jacs.7b11133
+45417,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.65,2016,10.1021/jacs.7b11133
+5A70,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.6,2015,Not available
+5A6Y,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.4,2015,10.1039/c6sc00696e
+5A6Q,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.7,2015,10.1039/c6sc00696e
+5A6Z,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.5,2015,10.1039/c6sc00696e
+1OUS,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.2,2003,10.1016/S0022-2836(03)00754-X
+3DCQ,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.8,2008,10.1016/j.chembiol.2008.10.009
+1OUX,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2,2003,10.1016/S0022-2836(03)00754-X
+1OVS,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.75,2003,10.1016/S0022-2836(03)00754-X
+1OVP,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.4,2003,10.1016/S0022-2836(03)00754-X
+1OXC,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.2,2003,10.1016/S0022-2836(03)00754-X
+1GZT,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.3,2002,10.1038/nsb865
+1OUR,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,1.42,2003,10.1016/S0022-2836(03)00754-X
+5OF2,TasA,Motility,Protein Fibril,,Bacillus subtilis,168,,,No,X-Ray Diffraction,1.86,2017,10.1073/pnas.1718102115
+4UT5,LecB/PA-IIL,EPS,Matrix Protein,,Pseudomonas aeruginosa,PA7,,,No,X-Ray Diffraction,1.75,2014,10.3389/fmicb.2016.00811
+6N9I,GcL,Quorum-Quenching,Hydrolase,,Parageobacillus caldoxylosilyticus,NBRC 107764,,,No,X-Ray Diffraction,1.6,2019,10.1002/cbic.201900024
+5OF1,TasA,Motility,Protein Fibril,,Bacillus subtilis,168,,,No,X-Ray Diffraction,1.56,2017,10.1073/pnas.1718102115
+6N9R,GcL,Quorum-Quenching,Hydrolase,,Parageobacillus caldoxylosilyticus,NBRC 107762,,OC12-HSL,No,X-Ray Diffraction,1.75,2019,10.1002/cbic.201900024
+6N9Q,GcL,Quorum-Quenching,Hydrolase,,Parageobacillus caldoxylosilyticus,NBRC 107763,,C4-HSL,No,X-Ray Diffraction,2.35,2019,10.1002/cbic.201900024
+4L4Z,LsrR,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Escherichia coli,K12,,D5X,Yes,X-Ray Diffraction,2.3,2013,10.1021/ja407068v
+4L51,LsrR,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Escherichia coli,K12,,,Yes,X-Ray Diffraction,1.9,2013,10.1021/ja407068v
+4L50,LsrR,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Escherichia coli,K12,,,Yes,X-Ray Diffraction,2.1,2013,10.1021/ja407068v
+4L5I,LsrR,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Escherichia coli,K12,,,Yes,X-Ray Diffraction,3.21,2013,10.1021/ja407068v
+4L5J,LsrR,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Escherichia coli,K12,,HSX,Yes,X-Ray Diffraction,2.6,2013,10.1021/ja407068v
+3T95,LsrB,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Yersinia pestis,,,PAV,No,X-Ray Diffraction,1.75,2011,10.1107/S1744309111042953
+4L4Y,LsrR,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Escherichia coli,K12,,,Yes,X-Ray Diffraction,1.9,2013,10.1021/ja407068v
+1TM2,LsrB,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Salmonella typhimurium,,,,No,X-Ray Diffraction,1.9,2004,10.2210/pdb1TM2/pdb
+1TJY,LsrB,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Salmonella typhimurium,,,R-THMF,No,X-Ray Diffraction,1.3,2004,10.1016/j.molcel.2004.07.020
+4LFU,SdiA,Quorum-Sensing,Transcriptional Regulator,,Escherichia coli,K12,,,No,X-Ray Diffraction,2.26,2014,10.1107/S1399004713032355
+3EJW,SmLsrB,Quorum-Sensing,Periplasmic Protein,Autoinducer-2,Rhizobium meliloti,1021,,,No,X-Ray Diffraction,1.8,2008,10.1111/j.1365-2958.2008.06477.x
+4LGW,SdiA,Quorum-Sensing,Transcriptional Regulator,,Escherichia coli,K12,,,No,X-Ray Diffraction,2.7,2014,10.1107/S1399004713032355
+2AVX,SdiA?,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Escherichia coli,K12,,C8-HSL,No,SOLUTION NMR,,2006,10.1016/j.jmb.2005.10.041
+4Y17,SdiA,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Escherichia coli,O157:H7,,3-oxo-C8-homoserine lactone,No,X-Ray Diffraction,2.84,2015,10.1128/mBio.02429-14
+4Y15,SdiA,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Escherichia coli,O157:H7,,3-oxo-C6-homoserine lactone,No,X-Ray Diffraction,2.835,2015,10.1128/mBio.02429-14
+4Y13,SdiA,Quorum-Sensing,Transcriptional Regulator,,Escherichia coli,O157:H7,,octanoyl-rac-glycerol,No,X-Ray Diffraction,3.096,2015,10.1128/mBio.02429-14
+5TN2,SinR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Bacillus subtilis,168,,,No,SOLUTION NMR,,2016,Not available
+5TN0,SinR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Bacillus subtilis,168,,,No,SOLUTION NMR,,2016,Not available
+5TMX,SinI,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Bacillus subtilis,168,,,No,SOLUTION NMR,,2016,Not available
+1B0N,SinR & SinI,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Bacillus subtilis,168,,,No,X-Ray Diffraction,1.9,1998,10.1006/jmbi.1998.2163
+3ZKC,SinR/RaiR/AvsR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Bacillus subtilis,168,,,No,X-Ray Diffraction,3,2013,10.1074/jbc.M113.455592
+2YAL,SinR/RaiR/AvsR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Bacillus subtilis,168,,,No,X-Ray Diffraction,2.27,2011,10.1016/j.jmb.2011.06.004
+3QQ6,SinR/RaiR/AvsR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Bacillus subtilis,168,,,No,X-Ray Diffraction,1.9,2011,10.1016/j.jmb.2011.06.004
+3KZ9,SmcR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Vibrio vulnificus,,,,No,X-Ray Diffraction,2.1,2009,10.1074/jbc.M109.100248
+5X3R,SmcR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Vibrio vulnificus,,,7Y3,No,X-Ray Diffraction,2.1,2017,10.1128/mBio.02262-17
+3KLN,VpsT,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Vibrio cholerae,,,,No,X-Ray Diffraction,3.078,2009,10.1126/science.1181185
+3KLO,VpsT,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2?,Vibrio cholerae,,,C2E,No,X-Ray Diffraction,2.802,2009,10.1126/science.1181185
+6U1Q,VpsO,EPS,Transcriptional Regulator,,Vibrio cholerae,,,PHOSPHONOTYROSINE,No,X-Ray Diffraction,2.87,2019,10.1371/journal.ppat.1008745
+6U1P,VpsU,EPS,Transcriptional Regulator,,Vibrio cholerae,,,,No,X-Ray Diffraction,2.2,2019,10.1371/journal.ppat.1008745
+5L0X,HapR,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Vibrio cholerae,,,,No,X-Ray Diffraction,2.1,2016,Not available
+2PBX,HapR,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Vibrio cholerae,,,,No,X-Ray Diffraction,2.2,2007,10.1128/JB.01807-06
+2Q0O,TraR & TraM,Quorum-Sensing,Two Component system (Transcriptional Activator and Antiactivator),Acyl-Homoserine-Lactones,Sinorhizobium fredii,NBRC 101917,,,No,X-Ray Diffraction,2,2007,10.1073/pnas.0704843104
+1US6,TraM,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Rhizobium radiobacter,,,,No,X-Ray Diffraction,1.65,2003,10.1074/jbc.M401855200
+1UPG,TraM,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Rhizobium radiobacter,,,,No,X-Ray Diffraction,1.8,2003,10.1074/jbc.M401855200
+1RFY,TraM,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Rhizobium radiobacter,,,,No,X-Ray Diffraction,1.6,2003,10.1111/j.1365-2958.2004.04110.x
+1L3L,TraR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Rhizobium radiobacter,,,LAE,No,X-Ray Diffraction,1.66,2002,10.1038/nature00833
+1H0M,TraR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones?,Rhizobium radiobacter,,,C4-HSL,No,X-Ray Diffraction,3,2002,10.1093/emboj/cdf459
+3BS1,AgrA,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Staphylococcus aureus,COL,,,No,X-Ray Diffraction,1.6,2007,10.1016/j.str.2008.02.011
+4XYQ,AgrA,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Staphylococcus aureus,COL,,,No,X-Ray Diffraction,2.4,2015,10.1016/j.bbrep.2016.03.013
+4XXE,AgrA,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Staphylococcus aureus,COL,,,No,X-Ray Diffraction,3.2,2015,10.1016/j.bbrep.2016.03.012
+4XQQ,AgrA,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Staphylococcus aureus,COL,,,No,X-Ray Diffraction,3.05,2015,10.1016/j.bbrep.2016.03.012
+4XQN,AgrA,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Staphylococcus aureus,COL,,,No,X-Ray Diffraction,2.3,2015,10.1016/j.bbrep.2016.03.012
+4XQJ,AgrA,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Staphylococcus aureus,COL,,,No,X-Ray Diffraction,1.9,2015,10.1016/j.bbrep.2016.03.012
+4XYO,AgrA,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Staphylococcus aureus,COL,,,No,X-Ray Diffraction,2,2015,10.1016/j.bbrep.2016.03.012
+4G4K,AgrA,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Staphylococcus aureus,COL,,,No,X-Ray Diffraction,1.52,2012,10.1021/bi3011785
+4BXI,AgrC,Quorum-Sensing,Histidine Kinase,Autoinducer-2,Staphylococcus aureus,COL,,,Yes,X-Ray Diffraction,2.2,2013,10.1128/JB.01530-14
+6E+95,AgrC,Quorum-Sensing,Histidine Kinase,Autoinducer-2,Staphylococcus aureus,Z172,,,Yes,X-Ray Diffraction,2.25,2018,10.1016/j.chembiol.2019.01.006
+6E+52,AgrC,Quorum-Sensing,Histidine Kinase,Autoinducer-2,Staphylococcus aureus,Z172,,,Yes,X-Ray Diffraction,1.93,2018,10.1016/j.chembiol.2019.01.006
+3QP5,CviR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Chromobacterium violaceum,ATCC-12472,,Chlorolactone,No,X-Ray Diffraction,3.249,2011,10.1016/j.molcel.2011.04.003
+3QP8,CviR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Chromobacterium violaceum,ATCC-12472,,C10-HSL,No,X-Ray Diffraction,1.6,2011,10.1016/j.molcel.2011.04.003
+3QP4,CviR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Chromobacterium violaceum,ATCC-12472,,C10-HSL,No,X-Ray Diffraction,1.55,2011,10.1016/j.molcel.2011.04.003
+3QP2,CviR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Chromobacterium violaceum,ATCC-12472,,C8-HSL,No,X-Ray Diffraction,1.638,2011,10.1016/j.molcel.2011.04.003
+3QP1,CviR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones?,Chromobacterium violaceum,ATCC-12472,,C6-HSL,No,X-Ray Diffraction,1.55,2011,10.1016/j.molcel.2011.04.003
+3QP6,CviR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones?,Chromobacterium violaceum,ATCC-12472,,C6-HSL,No,X-Ray Diffraction,2,2011,10.1016/j.molcel.2011.04.003
+3C30,LuxQ,Quorum-Sensing,Sensor Kinase/Phosphatase,Autoinducer-2,Vibrio cholerae,,,MES,No,X-Ray Diffraction,2.8,2008,Not available
+3C38,LuxQ,Quorum-Sensing,Sensor Kinase/Phosphatase,Autoinducer-2,Vibrio cholerae,,,,No,X-Ray Diffraction,2.3,2008,Not available
+2HJE,LuxQ,Quorum-Sensing,Sensor Kinase/Phosphatase,Autoinducer-2,Vibrio harveyi,,,,No,X-Ray Diffraction,1.7,2006,10.1016/j.cell.2006.07.032
+1ZHH,LuxPQ,Quorum-Sensing,Two component system (Periplasmatic Bidning and Phosphatase),Autoinducer-2,Vibrio harveyi,,,NHE,No,X-Ray Diffraction,1.94,2005,10.1016/j.molcel.2005.04.020
+2HJ9,LuxPQ,Quorum-Sensing,Two component system (Periplasmatic Bidning and Phosphatase),Autoinducer-2?,Vibrio harveyi,,,Autoinducer-2,No,X-Ray Diffraction,2.34,2006,10.1016/j.cell.2006.07.032
+4YRZ,LuxP,Quorum-Sensing,Binding Periplasmic Protein,Autoinducer-2,Vibrio harveyi,,,Autoinducer-2 Analogue,No,X-Ray Diffraction,2.57,2015,Not available
+4YR7,LuxP,Quorum-Sensing,Binding Periplasmic Protein,Autoinducer-2,Vibrio harveyi,,,Autoinducer-2 Analogue,No,X-Ray Diffraction,2.53,2015,Not available
+4YP9,LuxP,Quorum-Sensing,Binding Periplasmic Protein,Autoinducer-2,Vibrio harveyi,,,Autoinducer-2 Analogue,No,X-Ray Diffraction,2.7,2015,Not available
+1JX6,LuxP,Quorum-Sensing,Binding Periplasmic Protein,Autoinducer-2?,Vibrio harveyi,,,Autoinducer-2,No,X-Ray Diffraction,1.5,2001,10.1038/415545a
+4XCH,LuxS,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Streptococcus suis,,,,Yes,X-Ray Diffraction,2.2,2014,Not available
+5E+68,LuxS?,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Salmonella typhimurium,,,,No,X-Ray Diffraction,1.58,2015,Not available
+5V2W,LuxS?,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Salmonella typhimurium,,,,No,X-Ray Diffraction,2.3,2017,Not available
+1J6X,LuxS,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Helicobacter pylori,ATCC-700824,,,No,X-Ray Diffraction,2.38,2001,10.1016/S0969-2126(01)00613-X
+1JOE,LuxS,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Haemophilus influenzae,ATCC-51907,,,No,X-Ray Diffraction,2.4,2001,Not available
+1J6W,LuxS,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Haemophilus influenzae,ATCC-51907,,,No,X-Ray Diffraction,2.1,2001,10.1016/S0969-2126(01)00613-X
+1VGX,LuxS,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Deinococcus radiodurans,ATCC-13939,,,No,X-Ray Diffraction,1.9,2003,10.1021/jm060047g
+1VH2,LuxS,Quorum-sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Deinococcus radiodurans,ATCC-13939,,,No,X-Ray Diffraction,2,2003,10.1002/prot.20541
+1INN,LuxS,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Deinococcus radiodurans,ATCC-13939,,,No,X-Ray Diffraction,1.8,2001,10.1016/S0969-2126(01)00613-X
+1VJE,LuxS,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Deinococcus radiodurans,ATCC-13939,,MSE,No,X-Ray Diffraction,1.64,2004,10.1021/jm060047g
+1J6V,LuxS,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Deinococcus radiodurans,ATCC-13939,,,No,X-Ray Diffraction,2.1,2001,10.1016/S0969-2126(01)00613-X
+2FQO,LuxS,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Bacillus subtilis,168,,HYI,Yes,X-Ray Diffraction,1.87,2006,10.1021/jm060047g
+2FQT,LuxS,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Bacillus subtilis,168,,H1D,Yes,X-Ray Diffraction,1.79,2006,10.1021/jm060047g
+1YCL,LuxS?,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Bacillus subtilis,168,,KRI,Yes,X-Ray Diffraction,1.8,2004,10.1021/bi0477384
+1JQW,LuxS?,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Bacillus subtilis,168,,HCS,Yes,X-Ray Diffraction,2.3,2001,10.1006/jmbi.2001.5027
+1JVI,LuxS?,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Bacillus subtilis,168,,RHC,Yes,X-Ray Diffraction,2.2,2001,10.1006/jmbi.2001.5027
+1J98,LuxS?,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Bacillus subtilis,168,,,Yes,X-Ray Diffraction,1.2,2001,10.1006/jmbi.2001.5027
+1IE0,LuxS,Quorum-Sensing,Synthase/S-ribosylhomocysteinase Lyase,Autoinducer-2,Bacillus subtilis,168,,,Yes,X-Ray Diffraction,1.69,2001,10.1073/pnas.191223098
+1K4J,EsaI,Quorum-Sensing,Synthase/Ligase,Acyl-Homoserine-Lactones,Pantoea stewartii,,,,No,X-Ray Diffraction,2.5,2001,10.1016/S1097-2765(02)00480-X
+1KZF,EsaI,Quorum-Sensing,Synthase/Ligase,Acyl-Homoserine-Lactones,Pantoea stewartii,,,,No,X-Ray Diffraction,1.8,2002,10.1016/S1097-2765(02)00480-X
+5CHH,CdpR,Quorum-Sensing,Transcriptional Regulator,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.85,2015,10.1371/journal.pbio.1002449
+3H78,PqsD?,Quorum-Sensing,Transferase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.7,2009,10.1021/bi9009055
+3H77,PqsD,Quorum-Sensing,Transferase,,Pseudomonas aeruginosa,PAO1,,anthranilate,Yes,X-Ray Diffraction,1.8,2009,10.1021/bi9009055
+3H76,PqsD,Quorum-Sensing,Transferase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.8,2009,10.1021/bi9009055
+6ET2,PqsBC?,Quorum-Sensing,Transferase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.6,2017,10.1002/cbic.201800153
+6ET1,PqsBC,Quorum-Sensing,Transferase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.65,2017,10.1002/cbic.201800153
+6ET0,PqsBC?,Quorum-Sensing,Transferase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.53,2017,10.1002/cbic.201800153
+6ET3,PqsBC?,Quorum-Sensing,Transferase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.25,2017,10.1002/cbic.201800153
+6ESZ,PqsBC,Quorum-Sensing,Transferase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.84,2017,10.1002/cbic.201800153
+5DWZ,PqsBC?,Quorum-Sensing,Transferase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.4,2015,10.1074/jbc.M115.708453
+5OE6,PqsA,Quorum-Sensing,Ligase,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,6-fluoroanthraniloyl-AMP,No,X-Ray Diffraction,1.67,2017,10.1002/cbic.201700374
+5OE5,PqsA,Quorum-Sensing,Ligase,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,anthraniloyl-AMP,No,X-Ray Diffraction,1.74,2017,10.1002/cbic.201700374
+5OE4,PqsA,Quorum-Sensing,Ligase,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,anthraniloyl-AMP,No,X-Ray Diffraction,1.904,2017,10.1002/cbic.201700374
+5OE3,PqsA,Quorum-Sensing,Ligase,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,anthraniloyl-AMP,No,X-Ray Diffraction,1.43,2017,10.1002/cbic.201700374
+2VW8,PqsE,Quorum-Sensing,Thioester Hydrolase/Metal Binding Protein,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.45,2010,10.1021/acschembio.6b00156
+5HIO,PqsE,Quorum-Sensing,Thioester Hydrolase/Metal Binding Protein,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.9,2016,10.1021/acschembio.6b00156
+5HIP,PqsE,Quorum-Sensing,Thioester Hydrolase/Metal Binding Protein,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.992,2016,10.1021/acschembio.6b00156
+5HIQ,PqsE,Quorum-Sensing,Thioester Hydrolase/Metal Binding Protein,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.1,2016,10.1021/acschembio.6b00156
+5HIS,PqsE,Quorum-Sensing,Thioester Hydrolase/Metal Binding Protein,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.77,2016,10.1021/acschembio.6b00156
+3DH8,PqsE?,Quorum-Sensing,Thioester Hydrolase/Metal Binding Protein,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.8,2008,10.1021/bi900123j
+2Q0J,PqsE,Quorum-Sensing,Thioester Hydrolase/Metal Binding Protein,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.1,2007,10.1021/bi900123j
+2Q0I,PqsE,Quorum-Sensing,Thioester Hydrolase/Metal Binding Protein,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.57,2007,10.1021/bi900123j
+7KGX,PqsE,Quorum-Sensing,Thioester Hydrolase/Metal Binding Protein,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,4-(3-(2-methyl-2-morpholinobutyl)ureido)-N-(thiazol-2-yl)benzamide,Yes,X-Ray Diffraction,2,2020,10.1021/acschembio.1c00049
+7KGW,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,N-(3-(1H-pyrazol-5-yl)phenyl)-1H-indazole-7-carboxamide,No,X-Ray Diffraction,1.99,2020,10.1021/acschembio.1c00049
+6Q7V,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,Compound 11,No,X-Ray Diffraction,2.56,2018,10.1002/cmdc.201900621
+6Q7W,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,Compound 20,No,X-Ray Diffraction,2.82,2018,10.1002/cmdc.201900621
+6Q7U,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,HHQ,No,X-Ray Diffraction,3.14,2018,10.1002/cmdc.201900621
+6B8A,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,M64,No,X-Ray Diffraction,2.65,2017,10.1128/mBio.02158-17
+4JVC,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,MRD,No,X-Ray Diffraction,2.5,2013,10.1371/journal.ppat.1003508
+4JVI,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal,Pseudomonas aeruginosa,PAO1,,QZN,No,X-Ray Diffraction,2.9,2013,10.1371/journal.ppat.1003508
+4JVD,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal?,Pseudomonas aeruginosa,PAO1,,NNQ,No,X-Ray Diffraction,2.95,2013,10.1371/journal.ppat.1003508
+6TPR,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal?,Pseudomonas aeruginosa,PAO1,,Compound 40,No,X-Ray Diffraction,3.2,2019,10.3389/fchem.2020.00204
+6Z5K,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal?,Pseudomonas aeruginosa,PAO1,,Antagonist 18,No,X-Ray Diffraction,3.2,2020,10.1016/j.ejmech.2020.112778
+6Z17,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal?,Pseudomonas aeruginosa,PAO1,,Antagonist 6,No,X-Ray Diffraction,3.15,2020,10.1016/j.ejmech.2020.112778
+6YZ3,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal?,Pseudomonas aeruginosa,PAO1,,Antagonist 19,No,X-Ray Diffraction,3,2020,10.1016/j.ejmech.2020.112778
+6YIZ,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal?,Pseudomonas aeruginosa,PAO1,,Inverse Agonists,No,X-Ray Diffraction,2.16,2020,10.1002/advs.202004369
+7NBW,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal?,Pseudomonas aeruginosa,PAO1,,Pyridin Agonist,No,X-Ray Diffraction,2.28,2021,10.1016/j.ejmech.2021.113797
+6Z07,PqsR/MvfR,Quorum-Sensing,Transcriptional Regulator,Pseudomonas Quinolone Signal?,Pseudomonas aeruginosa,PAO1,,Antagonist 12,No,X-Ray Diffraction,2.95,2020,10.1016/j.ejmech.2020.112778
+6CBQ,QscR/PhzR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,EVY,No,X-Ray Diffraction,2.8,2018,10.1111/mmi.13930
+3SZT,QscR/PhzR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones?,Pseudomonas aeruginosa,PAO1,,OC12-HSL,No,X-Ray Diffraction,2.55,2011,10.1073/pnas.1112398108
+6CC0,QscR/PhzR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones?,Pseudomonas aeruginosa,PAO1,,OC12-HSL,No,X-Ray Diffraction,2.5,2018,10.1111/mmi.13930
+1RO5,LasI,Quorum-Sensing,Synthase/Ligase,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.3,2003,10.1111/j.1365-2958.2004.04211.x
+6D6P,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,TX1 homolog (compound 19),No,X-Ray Diffraction,1.65,2018,10.1016/j.chembiol.2018.06.007
+6D6O,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,TX1 homolog (compound 17),No,X-Ray Diffraction,1.65,2018,10.1016/j.chembiol.2018.06.007
+6D6N,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,TX1 homolog (compound 16),No,X-Ray Diffraction,1.81,2018,10.1016/j.chembiol.2018.06.008
+6D6M,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,TX1 homolog (compound 15),No,X-Ray Diffraction,1.9,2018,10.1016/j.chembiol.2018.06.007
+6D6L,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,TX1 homolog (compound 14),No,X-Ray Diffraction,1.63,2018,10.1016/j.chembiol.2018.06.007
+6D6D,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,TX1 homolog (compound 13),No,X-Ray Diffraction,1.7,2018,10.1016/j.chembiol.2018.06.007
+6D6C,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,TX1 homolog (compound 12),No,X-Ray Diffraction,1.88,2018,10.1016/j.chembiol.2018.06.007
+6D6B,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,TX1 homolog (compound 11),No,X-Ray Diffraction,1.7,2018,10.1016/j.chembiol.2018.06.007
+6D6A,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,TX1 homolog (compound 10),No,X-Ray Diffraction,1.9,2018,10.1016/j.chembiol.2018.06.007
+3JPU,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,TP4,No,X-Ray Diffraction,2.3,2009,10.1016/j.chembiol.2009.09.001
+3IX8,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,TP3,No,X-Ray Diffraction,1.8,2009,10.1016/j.chembiol.2009.09.001
+3IX4,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,TP1,No,X-Ray Diffraction,1.8,2009,10.1016/j.chembiol.2009.09.001
+4NG2,LasR&QsIA,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones?,Pseudomonas aeruginosa,PAO1,,OC12-HSL,No,X-Ray Diffraction,2.413,2013,10.1073/pnas.1314415110
+3IX3,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones?,Pseudomonas aeruginosa,PAO1,,OC12-HSL,No,X-Ray Diffraction,1.4,2009,10.1016/j.chembiol.2009.09.001
+2UV0,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones?,Pseudomonas aeruginosa,PAO1,,OC12-HSL,No,X-Ray Diffraction,1.8,2007,10.1074/jbc.M700556200
+6MVN,LasR?,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,OC10-HSL,No,X-Ray Diffraction,2.2,2018,10.1073/pnas.1817239116
+6MVM,LasR?,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,OC14-HSL,No,X-Ray Diffraction,1.895,2018,10.1073/pnas.1817239116
+6MWZ,LasR?,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,HSL-Analogue,No,X-Ray Diffraction,1.657,2018,10.1021/acschembio.8b00971
+6MWW,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,HSL-Analogue,No,X-Ray Diffraction,2.76,2018,10.1021/acschembio.8b00971
+6MWL,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,HSL-Analogue,No,X-Ray Diffraction,1.5,2018,10.1021/acschembio.8b00971
+6MWH,LasR,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,PAO1,,HSL-Analogue,No,X-Ray Diffraction,2.2,2018,10.1021/acschembio.8b00971
+6V7W,LasR-Aqs1,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,UCBPP_PA14,,OC12-HSL,No,X-Ray Diffraction,3,2019,10.1016/j.molcel.2020.12.011
+7VFO,SdgB,Adhesion,Transferase,,Staphylococcus aureus,USA300,,,No,X-Ray Diffraction,3.2,2021,10.1107/S2059798321010068
+6V7X,LasR-Aqs1,Quorum-Sensing,Transcriptional Regulator,Acyl-Homoserine-Lactones,Pseudomonas aeruginosa,UCBPP_PA14,,OC12-HSL,No,X-Ray Diffraction,2.9,2019,10.1016/j.molcel.2020.12.011
+7VFK,SdgB,Adhesion,Transferase,,Staphylococcus aureus,USA300,,,No,X-Ray Diffraction,1.84,2021,10.1107/S2059798321010068
+7VFL,SdgB,Adhesion,Transferase,,Staphylococcus aureus,USA300,,Uridine-5'-Diphosphate,No,X-Ray Diffraction,2.45,2021,10.1107/S2059798321010068
+7VFN,SdgB,Adhesion,Transferase,,Staphylococcus aureus,USA300,,,No,X-Ray Diffraction,1.9,2021,10.1107/S2059798321010068
+7VFM,SdgB,Adhesion,Transferase,,Staphylococcus aureus,USA300,,Uridine-5'-Diphosphate,No,X-Ray Diffraction,2.28,2021,10.1107/S2059798321010068
+7EC1,SdgB,Adhesion,Transferase,,Staphylococcus aureus,USA300,,,No,X-Ray Diffraction,1.85,2021,10.1107/S2059798321010068
+3Q48,CupB2,Adhesion,Chaperone,,Pseudomonas aeruginosa,,,,No,X-Ray Diffraction,2.5,2010,10.1371/journal.pone.0016583
+3KXY,ExsC-ExsE,Quorum-Sensing,Antiactivator,,Pseudomonas aeruginosa,,,,No,X-Ray Diffraction,2.8,2009,10.1021/bi100432e
+3FD9,ExsD,Quorum-Sensing,Antiactivator,,Pseudomonas aeruginosa,UCBPP-PA14,,,No,X-Ray Diffraction,2.6,2008,10.1002/pro.48
+7N41,TagA?,Adhesion,Transferase,,Thermoanaerobacter italicus,Ab9,,UDP-ManNAc,No,X-Ray Diffraction,3.3,2021,10.1016/j.jbc.2021.101464
+7AM0,GqqA,Quorum-Quenching,Hydrolase,Acyl-Homoserine-Lactones,Komagataeibacter europaeus,,,,No,X-Ray Diffraction,2.5,2020,10.1038/s41598-021-91536-1
+7MPK,TagA?,Adhesion,Transferase,,Thermoanaerobacter italicus,Ab9,,UDP-GlcNAc,No,X-Ray Diffraction,2.99,2021,10.1016/j.jbc.2021.101464
+6UF2,Se0862,Formation,Unknown,,Synechococcus elongatus,PCC 7942,,,No,SOLUTION NMR,,2019,10.1002/pro.3952
+7ALZ,GqqA,Quorum-Quenching,Hydrolase,Acyl-Homoserine-Lactones,Komagataeibacter europaeus,,,,No,X-Ray Diffraction,1.67,2020,10.1038/s41598-021-91536-1
+7N82,Se0862,Formation,Unknown,,Synechococcus elongatus,,,,No,SOLUTION NMR,,2021,Not available
+6QAY,TasA,EPS,Protein Fibril,,Bacillus subtilis,,,,No,SOLUTION NMR,,2018,Not available
+6TGF,WceF,EPS,Hydrolase,,Pantoea stewartii,DC283,,,No,X-Ray Diffraction,2.55,2019,10.1016/j.jbc.2021.100286
+6KKP,SiaC,Quorum-Sensing,Transcriptional Regulator,,Pseudomonas aeruginosa,,,,No,X-Ray Diffraction,2.5,2019,10.15252/embj.2019103412
+6KKO,SiaB-SiaC,Quorum-Sensing,Transcriptional Regulator,,Pseudomonas aeruginosa,,,ADP,No,X-Ray Diffraction,2.1,2019,10.15252/embj.2019103412
+4KDP,TcaR,Signalling,Transcriptional Regulator,,Staphylococcus epidermidis,ATCC 12228,,,No,X-Ray Diffraction,3.6,2013,10.1093/nar/gku128
+3SYJ,Hap,Motility,Adhesion,,Haemophilus influenzae,,,,No,X-Ray Diffraction,2.2,2011,10.1038/emboj.2011.279
+4LE8,Als3,Motility,Adhesion,,Candida albicans,ATCC MYA-2876,,,No,X-Ray Diffraction,1.75,2013,10.1074/jbc.M114.547877
+4LEB,Als3,Motility,Adhesion,,Candida albicans,ATCC MYA-2876,,,No,X-Ray Diffraction,1.4,2013,10.1074/jbc.M114.547877
+4LEE,Als3?,Motility,Adhesion,,Candida albicans,ATCC MYA-2876,,,No,X-Ray Diffraction,3,2013,10.1074/jbc.M114.547877
+6HOF,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM44852,No,X-Ray Diffraction,1.8,2018,10.1016/j.bbapap.2018.12.003
+6HOB,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM44831,No,X-Ray Diffraction,1.8,2018,10.1016/j.bbapap.2018.12.003
+6HOE,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM44850,No,X-Ray Diffraction,1.9,2018,10.1016/j.bbapap.2018.12.003
+6HOD,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM44848,No,X-Ray Diffraction,1.7,2018,10.1016/j.bbapap.2018.12.003
+6HOC,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM44847,No,X-Ray Diffraction,2.5,2018,10.1016/j.bbapap.2018.12.003
+6HO9,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM44825,No,X-Ray Diffraction,1.8,2018,10.1016/j.bbapap.2018.12.003
+6HO8,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM44815,No,X-Ray Diffraction,1.98,2018,10.1016/j.bbapap.2018.12.003
+6HO7,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM44814,No,X-Ray Diffraction,2.5,2018,10.1016/j.bbapap.2018.12.003
+6HO6,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM44725,No,X-Ray Diffraction,1.9,2018,10.1016/j.bbapap.2018.12.003
+6HO5,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM44719,No,X-Ray Diffraction,2.3,2018,10.1016/j.bbapap.2018.12.003
+6HO4,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,H37Rv,,BDM44693,No,X-Ray Diffraction,1.6,2018,10.1016/j.bbapap.2018.12.003
+6HO3,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM43265,No,X-Ray Diffraction,2.4,2018,10.1016/j.bbapap.2018.12.003
+6HO2,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM43138,No,X-Ray Diffraction,1.9,2018,10.1016/j.bbapap.2018.12.003
+6HO1,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM41974,No,X-Ray Diffraction,2,2018,10.1016/j.bbapap.2018.12.003
+6HNZ,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,CDC1551,,BDM41231,No,X-Ray Diffraction,1.7,2018,10.1016/j.bbapap.2018.12.003
+6HNX,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,H37Rv,,BDM35133,No,X-Ray Diffraction,1.7,2018,10.1016/j.bbapap.2018.12.003
+6HO0,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,H37Rv,,BDM41325,No,X-Ray Diffraction,1.9,2018,10.1016/j.bbapap.2018.12.003
+1T56,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,ATCC 25618,,,No,X-Ray Diffraction,1.7,2004,10.1016/j.jmb.2004.06.003
+3G1L,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,ATCC 25618,,BDM14744,No,X-Ray Diffraction,1.7,2009,10.1038/nm.1950
+3G1O,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,ATCC 25618,,BDM14500,No,X-Ray Diffraction,1.85,2009,10.1038/nm.1950
+3G1M,EthR,Quorum-Sensing,Transcriptional Regulator,,Mycobacterium tuberculosis,ATCC 25618,,BDM31381,No,X-Ray Diffraction,1.7,2009,10.1038/nm.1950
+3R5G,CyaB,Signalling,Synthase,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,1.5,2011,10.1016/j.jmb.2011.12.045
+2OZ6,Vfr,Quorum-Sensing,Transcriptional Regulator,,Pseudomonas aeruginosa,PAO1,,cAMP,No,X-Ray Diffraction,2.8,2007,10.1128/JB.00666-10
+4ZUA,ExsA,Signalling,Transcriptional Regulator,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.5,2015,10.1371/journal.pone.0136533
+1VPZ,RsmA,Signalling,Transcriptional Regulator,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.05,2004,10.1002/prot.20502
+3BRE,WspR/PA3702,Signalling,Transcriptional Regulator,,Pseudomonas aeruginosa,PAO1,,C2E,Yes,X-Ray Diffraction,2.4,2007,10.1371/journal.pbio.0060067
+3I5B,WspR/PA3702,Signalling,Transcriptional Regulator,,Pseudomonas aeruginosa,PAO1,,,Yes,X-Ray Diffraction,2.043,2009,10.1016/j.jmb.2009.08.030
+3I5C,WspR/PA3702,Signalling,Transcriptional Regulator,,Pseudomonas aeruginosa,PAO1,,C2E,Yes,X-Ray Diffraction,1.94,2009,10.1016/j.jmb.2009.08.030
+3I5A,WspR/PA3702,Signalling,Transcriptional Regulator,,Pseudomonas syringae,ATCC BAA-871,,C2E,Yes,X-Ray Diffraction,2.796,2009,10.1016/j.jmb.2009.08.030
+4IOB,YfiN/TpbB,Signalling,Lyase,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.78,2013,10.1371/journal.pone.0081324
+5M1T,MucR,Signalling,Transcriptional Regulator,,Pseudomonas aeruginosa,PAO1,,,No,X-Ray Diffraction,2.27,2016,10.1038/srep42166
+4RT0,Alg44,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,C2E,No,X-Ray Diffraction,1.8,2014,10.1074/jbc.M115.645051
+4RT1,Alg44?,Signalling,Membrane Protein,,Pseudomonas aeruginosa,PAO1,,C2E,No,X-Ray Diffraction,1.7,2014,10.1074/jbc.M115.645051
+5YA2,LsrK,Quorum-Sensing,Transferase,Autoinducer-2,Escherichia coli,K12,,ADP,No,X-Ray Diffraction,2.7,2018,10.1126/sciadv.aar7063
+4P2V,LsrF,Quorum-Sensing,Transferase,Autoinducer-2?,Escherichia coli,K12,,"(3R)-3-hydroxy-2,4-dioxopentyl dihydrogen phosphate",Yes,X-Ray Diffraction,2.51,2014,10.1073/pnas.1408691111
+3GKF,LsrF,Quorum-Sensing,Transferase,Autoinducer-2,Escherichia coli,K12,,,Yes,X-Ray Diffraction,2.9,2009,10.1371/journal.pone.0006820
+3GLC,LsrF,Quorum-Sensing,Transferase,Autoinducer-2,Escherichia coli,K12,,Ribose-5-Phosphate,Yes,X-Ray Diffraction,2.5,2009,10.1371/journal.pone.0006820
+3GND,LsrF,Quorum-Sensing,Transferase,Autoinducer-2,Escherichia coli,K12,,Ribose-5-Phosphate,Yes,X-Ray Diffraction,2.9,2009,10.1371/journal.pone.0006820
+3QMQ,LsrG,Quorum-Sensing,Isomerase,Autoinducer-2,Escherichia coli,CB9615 / EPEC,,,Yes,X-Ray Diffraction,1.8,2011,10.1074/jbc.M111.230227
+4GO1,LsrR,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Escherichia coli,K12,,,Yes,X-Ray Diffraction,3,2013,10.1074/jbc.M112.417634
+6DSP,LsrB,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Clostridium saccharobutylicum,DSM 13864,,,No,X-Ray Diffraction,1.37,2019,10.1074/jbc.RA118.006938
+5GTA,LsrB,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Salmonella typhi,,,,No,X-Ray Diffraction,2.99,2017,Not available
+5EP1,LuxO,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Photobacterium angustum,S14 / CCUG 15956,,,No,X-Ray Diffraction,1.5,2016,10.1371/journal.pbio.1002464
+5EP0,LuxO,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Photobacterium angustum,S14 / CCUG 15956,,,No,X-Ray Diffraction,1.6,2016,10.1371/journal.pbio.1002464
+5EP2,LuxO,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Photobacterium angustum,S14 / CCUG 15956,,"2,2-dimethylpropyl 2-[[3,5-bis(oxidanylidene)-2~{H}-1,2,4-triazin-6-yl]sulfanyl]ethanoate",No,X-Ray Diffraction,1.42,2016,10.1371/journal.pbio.1002464
+5EP3,LuxO,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Photobacterium angustum,S14 / CCUG 15956,,"2,2-dimethylpropyl 2-[(3-oxidanylidene-5-sulfanylidene-2~{H}-1,2,4-triazin-6-yl)amino]ethanoate",No,X-Ray Diffraction,1.8,2016,10.1371/journal.pbio.1002464
+5EP4,LuxO,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Photobacterium angustum,S14 / CCUG 15956,,Adenosine-5'-Triphosphate,No,X-Ray Diffraction,1.5,2016,10.1371/journal.pbio.1002464
+3CFY,LuxO,Quorum-Sensing,Transcriptional Regulator,Autoinducer-3,Vibrio parahaemolyticus,RIMD 2210633,,,No,X-Ray Diffraction,2.5,2008,Not available
+6D7R,HapR?,Quorum-Sensing,Transcriptional Regulator,Autoinducer-2,Vibrio cholerae,V2,,,No,X-Ray Diffraction,2.1,2018,10.1107/S2053230X18006519
+2WK7,CqsA,Quorum-Sensing,Synthase,cholerae autoinducer-1 (CAI-1),Vibrio cholerae,ATCC 39315 / El Tor Inaba N16961,,,No,X-Ray Diffraction,2.5,2009,10.1016/j.jmb.2009.07.042
+2WK8,CqsA,Quorum-Sensing,Synthase,cholerae autoinducer-1 (CAI-1),Vibrio cholerae,ATCC 39315 / El Tor Inaba N16961,,Pyridoxal-5'-Phosphate,No,X-Ray Diffraction,2.9,2009,10.1016/j.jmb.2009.07.042
+2WK9,CqsA,Quorum-Sensing,Synthase,cholerae autoinducer-1 (CAI-1),Vibrio cholerae,ATCC 39315 / El Tor Inaba N16961,,N-Glycine-[3-Hydroxy-2-Methyl-5-PHosphonooxymethyl-Pyrindin-4-Yl-Methane],No,X-Ray Diffraction,1.9,2009,10.1016/j.jmb.2009.07.042
+2WK9,CqsA,Quorum-Sensing,Synthase,cholerae autoinducer-1 (CAI-1),Vibrio cholerae,ATCC 39315 / El Tor Inaba N16961,,Pyridoxal-5'-Phosphate,No,X-Ray Diffraction,1.9,2009,10.1016/j.jmb.2009.07.042
+3HQT,CqsA,Quorum-Sensing,Synthase,cholerae autoinducer-1 (CAI-1),Vibrio cholerae,ATCC 39315 / El Tor Inaba N16961,,Pyridoxal-5'-Phosphate,No,X-Ray Diffraction,2.7,2009,10.1038/nchembio.237
+3KKI,CqsA,Quorum-Sensing,Synthase,cholerae autoinducer-1 (CAI-1),Vibrio cholerae,ATCC 39315 / El Tor Inaba N16961,,Pyridoxal-5'-Phosphate,No,X-Ray Diffraction,1.8,2009,10.1038/nchembio.237
+2WKA,CqsA,Quorum-Sensing,Synthase,cholerae autoinducer-1 (CAI-1),Vibrio cholerae,ATCC 39315 / El Tor Inaba N16961,,[6-methyl-5-oxidanyl-4-[(~{E})-2-oxidanylideneundecyliminomethyl]pyridin-3-yl]methyl dihydrogen phosphate,No,X-Ray Diffraction,1.9,2009,10.1016/j.jmb.2009.07.042
+5UQK,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,U2F,No,X-Ray Diffraction,1.851,2017,10.1016/j.jsb.2017.04.006
+5UQL,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,U2F,No,X-Ray Diffraction,1.97,2017,10.1016/j.jsb.2017.04.006
+4R04,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,No,X-Ray Diffraction,3.26,2014,Not available
+4NBX,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,No,X-Ray Diffraction,1.75,2013,10.1074/jbc.M113.505917
+4NC2,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,Yes,X-Ray Diffraction,2.5,2013,10.1074/jbc.M113.505917
+4NC1,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,No,X-Ray Diffraction,2.61,2013,10.1074/jbc.M113.505917
+4NC0,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,No,X-Ray Diffraction,2.3,2013,10.1074/jbc.M113.505917
+4NBY,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,No,X-Ray Diffraction,2.8,2013,10.1074/jbc.M113.505917
+4NBZ,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,No,X-Ray Diffraction,1.75,2013,10.1074/jbc.M113.505917
+4DMV,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,No,X-Ray Diffraction,1.5,2012,10.1111/j.1742-4658.2012.08688.x
+4DMW,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,Uridine-5'-Diphosphate,No,X-Ray Diffraction,2.5,2012,10.1111/j.1742-4658.2012.08688.x
+3SRZ,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,UDP-glucose,No,X-Ray Diffraction,2.58,2011,10.1074/jbc.M111.298414
+3SS1,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,No,X-Ray Diffraction,2.202,2011,10.1074/jbc.M111.298414
+2QJ6,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,No,X-Ray Diffraction,2.5,2007,Not available
+2G7C,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,No,X-Ray Diffraction,2,2006,Not available
+2F6E,TcdA,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,No,X-Ray Diffraction,1.85,2005,10.1073/pnas.0506391102
+6OQ5,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,Yes,X-Ray Diffraction,3.87,2019,10.1038/s41594-019-0268-0
+6OQ6,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,Yes,X-Ray Diffraction,2.97,2019,10.1038/s41594-019-0268-0
+6OQ7,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,Uridine-5'-Diphosphate,Yes,X-Ray Diffraction,2.39,2019,10.1038/s41594-019-0268-0
+6OQ8,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,Yes,X-Ray Diffraction,2.2,2019,10.1038/s41594-019-0268-0
+5AR6,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,Yes,Electron Microscopy,9,2017,Not available
+6C0B,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,Yes,X-Ray Diffraction,2.5,2017,10.1038/s41594-019-0268-0
+5VQM,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,Yes,X-Ray Diffraction,2.79,2017,10.1074/jbc.M117.813428
+5UQM,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,U2F,Yes,X-Ray Diffraction,2.03,2017,10.1016/j.jsb.2017.04.006
+5UQN,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,U2F,Yes,X-Ray Diffraction,2.06,2017,10.1016/j.jsb.2017.04.006
+5UQT,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,Apigenin,Yes,X-Ray Diffraction,2.75,2017,10.1016/j.jsb.2017.04.006
+4NP4,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,Yes,X-Ray Diffraction,2.89,2013,10.1074/jbc.M114.560748
+3PEE,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,Yes,X-Ray Diffraction,2.1,2010,10.1038/nsmb.1990
+3PA8,TcdB,Quorum-Sensing,Matrix Protein,,Clostridioides difficile,,,,Yes,X-Ray Diffraction,2,2010,10.1016/j.chembiol.2010.09.011
